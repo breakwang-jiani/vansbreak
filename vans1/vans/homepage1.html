@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="homepage1.css">
+    <link rel="stylesheet" href="download/font_gjwqfcac97u/iconfont.css">
+    <link rel="stylesheet" href="footer.css">
+    <style>
+        .lunbo {
+            width: 100%;
+            height: 500px;
+        }
+        
+        #lunbobox {
+            margin-top: 140px;
+        }
+        
+        .lunbo img {
+            width: 100%;
+            height: 600px;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            margin-top: 148px;
+        }
+        
+        #lunbobox ul {
+            width: 200px;
+            position: absolute;
+            bottom: 10px;
+            right: 0px;
+            z-index: 5;
+        }
+        
+        #lunbobox ul li {
+            cursor: pointer;
+            width: 20px;
+            height: 4px;
+            border: 1px solid #cccccc;
+            float: left;
+            list-style: none;
+            background: #cccccc;
+            text-align: center;
+            margin: 0px 5px 0px 0px;
+        }
+        
+        #toleft {
+            display: none;
+            font-size: 40px;
+            text-align: center;
+            color: #f4f4f4;
+            cursor: pointer;
+            z-index: 99;
+            display: block;
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 50%;
+            left: 5%;
+            background-color: gray;
+            border-radius: 50%;
+            line-height: 46px;
+            opacity: 0.3;
+        }
+        
+        #toright {
+            display: none;
+            font-size: 40px;
+            text-align: center;
+            color: #f4f4f4;
+            cursor: pointer;
+            z-index: 15;
+            display: block;
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 50%;
+            right: 5%;
+            background-color: gray;
+            border-radius: 50%;
+            line-height: 46px;
+            opacity: 0.3;
+        }
+        
+        .lunbo .Explore1 {
+            width: 150px;
+            height: 55px;
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 20%;
+            background-color: #000000;
+            border: 1px solid white;
+            background: rgba(190, 190, 190, 0);
+            outline: 0 none;
+            cursor: pointer;
+        }
+        * {
+            padding: 0;
+            margin: 0
+        }
+
+        ul {
+            list-style: none
+        }
+
+        a {
+            text-decoration: none;
+            display: block;
+            width: 200px;
+            height: 50px;
+        }
+
+        .one {
+            width: 1000px;
+            height: 50px;
+            line-height: 50px;
+            background: #ff0;
+            margin: 0 auto;
+        }
+
+        .oneli {
+            float: left;
+            width: 200px;
+            height: 50px;
+            text-align: center;
+            position: relative;
+        }
+
+        .oneli a:hover {
+            background: #0ff;
+        }
+
+        /*二级菜单*/
+        .two {
+            width: 200px;
+            background: #96F;
+            position: absolute;
+            display: none;
+        }
+
+        .oneli:hover .two {
+            display: block;
+        }
+
+        .twoli a:hover {
+            background: #90F
+        }
+
+        .twoli {
+            position: relative;
+        }
+
+        /*三级菜单*/
+        .three {
+            width: 200px;
+            background: #FF9;
+            position: absolute;
+            top: 0px;
+            left: 200px;
+            display: none;
+        }
+
+        .twoli:hover .three {
+            display: block;
+        }
+
+        .threeli a:hover {
+            background: #FC0
+        }
+
+        /*最后一个的三级菜单*/
+        .last .three {
+            width: 200px;
+            background: #FF9;
+            position: absolute;
+            top: 0px;
+            left: -200px;
+            display: none;
+        }
+
+        .last .twoli:hover .three {
+            display: block;
+        }
+
+        .last .threeli a:hover {
+            background: #FC0
+        }
+    </style>
+</head>
+
+<body>
+    <div class="heade">
+        <div class="header">
+            <div class="header-Top">
+                <div class="header-Top-left">
+                    <ul>
+                        <li>
+                            <span class="iconfont icon-sousuo"></span> <a href="">搜索店铺</a>
+                        </li>
+                        <li>
+                            <a href="LoginRegistration.html">注册</a>
+                            <span class="iconfont icon-denglu"><a href="denglu.html">登录/</a></span>
+
+                        </li>
+                        <li>
+                            <span class="iconfont icon-gouwuche"> <a href="">我的购物车</a></span>
+                        </li>
+                    </ul>
+                    <div class="header-right">
+                        <img src="img/vans-logo (1).png" alt="">
+                    </div>
+                </div>
+
+            </div>
+            <div class="header-center">
+                <ul>
+                    <li>关于&nbsp; vans<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>热门<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>男子<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>女子<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>童鞋<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>滑板<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>CUSTOMS定制鞋<img src="img/下箭头.png" alt=""><em>/</em></li>
+                    <li>更多产品<img src="img/下箭头.png" alt=""></li>
+                    <li class="header-input">
+                        <input type="text" placeholder="搜索VANS">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="header-blank">
+            <h3>部分地区&定制鞋发货</h3>
+        </div>
+    </div>
+    <div id="lunbobox">
+
+        <div class="lunbo">
+
+            <a href="https://vans.com.cn/product/customs_pet_ugc_sp21#banner=sp21_product_customspetugc.customspetugc.herocarousel_1"><img src="img/00.jpg">
+                <!-- <button type="button" class="Explore1">立即探索</button> -->
+            </a>
+            <a href=https://vans.com.cn/product/customs_pet_ugc_sp21#banner=sp21_product_customspetugc.customspetugc.herocarousel_1 "><img src="img/1.jpg ">
+                <!-- <button type="button " class="Explore1 ">立即探索</button> -->
+            </a>
+
+        </div>
+        
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        <span></span>
+
+    </div>
+    </div>
+    <section>
+
+    </section>
+    <div class="swiper-slide ">
+        <ul>
+            <li>
+                <p> <img src="img/3.jpg " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+            <li>
+                <p> <img src="img/4.jpg " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+            <li>
+                <p> <img src="img/5.png " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+            <li>
+                <p> <img src="img/6.jpg " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+            <li>
+                <p> <img src="img/7.jpg " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+            <li>
+                <p> <img src="img/8.jpg " alt=" "></p>
+                <h4>牛年就要“VANS”具备</h4>
+                <a href=" " class="index-article ">立即选购</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="activity-section ">
+        <div class="swiper-left-slide-buttom ">
+            <div class="swiper-slide-buttom ">
+                <ul>
+                    <li><img src="img/9.jpg " alt=" ">
+                        <!-- <h5>CLASSICS</h5> -->
+                        <!-- <h6>经典系列</h6> -->
+                    </li>
+                    <li><img src="img/10.jpg " alt=" ">
+                        <!-- <h5>CLASSICS</h5> -->
+                        <!-- <h6>经典系列</h6> -->
+                    </li>
+                    <li><img src="img/11.jpg " alt=" ">
+                        <!-- <h5>CLASSICS</h5> -->
+                        <!-- <h6>经典系列</h6> -->
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <span class="title ">最新活动</span>
+        <div class="clearfix ">
+            <ul>
+                <li class="li "><img src="img/12.jpg " alt=" ">
+                    <h5>VANS呈现惠子轩个人纪录片《XUAN XUAN》</h5>
+                    <p>让我们通过这部个人纪录片，了解更多关于惠子轩的故事吧！</p>
+                </li>
+                <li><img src="img/13.png " alt=" ">
+                    <h5>孤独之《成》-VANS职业滑手小黑个人影片幕后花絮释出</h5>
+                    <p>让我们伴随着未剪辑的一条条画面，和纯粹的滑板和滑手与地面撞击的声音，去感受小黑的“孤独之《成》”</p>
+                </li>
+                <li class="li "><img src="img/14.jpg " alt=" ">
+                    <h5>VANS SNBWBOARDING呈现“EVERGEEN.”单板滑雪影片</h5>
+                    <p>由著名电影制作人兼摄影师Tanner Pendleton执导</p>
+                </li>
+                <li><img src="img/15.jpg " alt=" ">
+                    <h5>VANS SKATEBOARDING 呈现ALRIGHT，OK</h5>
+                    <p>由著名制片人Gteg Hunt执导</p>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="maxFooter ">
+        <div class="footer ">
+            <div class="foot-l fl ">
+                <div class="AdvBanner ">
+                    <span style="font-weight: bold;font-size:18px; ">获取帮助</span>
+                </div>
+                <dl class="shopmax-keys ">
+                    <dt class="maxTitle ">购物</dt>
+                    <dd>
+                        <a href=" ">男子</a>
+                        <a href=" ">女子</a>
+                        <a href=" ">CUSTOMS</a>
+                        <a href=" ">VALULT BY VANS</a>
+                        <a href=" ">职业鞋款</a>
+                        <a href="https://vans.com.cn/exshop-search.html ">查找店铺</a>
+                    </dd>
+                </dl>
+                <dl class="shopmax-keys ">
+                    <dt class="maxTitle ">
+                        公司
+                    </dt>
+                    <dd>
+                        <a href="https://vans.com.cn/article-gongsi-1471.html ">客户服务</a>
+                        <a href="https://vans.com.cn/article-gongsi-1472.html ">使用条款</a>
+                        <a href="https://vans.com.cn/article-gongsi-1473.html ">隐私政策</a>
+                        <a href="https://www.vans.com/sustainability.html ">可持续发展</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="foot-c fl ">
+                <dl class="shopmax-keys ">
+                    <dt class="maxTitle ">
+                        <a href=" ">联系我们</a></dt>
+                    <dd>
+                        <a href=" ">电子邮箱</a>
+                        <a href=" " class=" item-2 ">CONTACTUS@VANS.COM.CN</a>
+                        <a href=" ">地址</a> 中国上海市南京西路688号8楼
+                    </dd>
+                </dl>
+            </div>
+            <div class="foot-r fr ">
+                <div class="basic-mail " id="basic_mail_421 ">
+                    <div class="SureLook ">
+                        <h3>在这些地方找到我们</h3>
+                        <ul>
+                            <li>
+                                <a href=" "><img style="width: 37px; height: 37px; " src="img/wechat.png " alt=" "></a>
+                            </li>
+                            <li>
+                                <a href=" "><img style="width: 37px; height: 37px; " src="img/lianjie.png " alt=" "></a>
+                            </li>
+                            <li>
+                                <a href=" "><img style="width: 37px; height: 37px; " src="img/weibo.png " alt=" "></a>
+                            </li>
+                            <li>
+                                <a href=" "><img style="width: 37px; height: 37px; " src="img/tengxun.png " alt=" "></a>
+                            </li>
+                            <li>
+                                <a href=" "><img style="width: 37px; height: 37px; " src="img/xiangji.png " alt=" "></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="F-buttom ">
+            <div class="b-logo "></div>
+            <div class="b-l ">
+                <div class="b-text ">
+                    <p>
+                        <a href="https://beian.miit.gov.cn " type="url ">
+                            <font size="3 " face="Arial ">苏ICP备13010219号</font>
+                        </a>
+                        <font size="3 ">&nbsp;
+                            <a>
+                                <font color="#589BC6 ">工信部网站</font>
+                            </a>
+                        </font>
+                    </p>
+                    <p>
+                        <font size="3 " color="#589BC6 ">威富服饰（中国）有限公司</font>
+                    </p>
+                </div>
+                <div class="b-Country ">
+                    <div class="country ">
+
+                        <div class="title ">
+                            <span>中国</span>
+                            <!-- <img src="https://img1.vans.com.cn/public/images/94/63/f5/f0c11e835d6a8045911d5ec88ce06842eef4a544.png?1566359531#h " alt="中国 "  /> -->
+                        </div>
+
+                        <div class="country-list ">
+                            <ul class="clearfix ">
+                                <li class="item-1 first " data-adid="1566359636212 ">
+                                    <a href="https://vans.com.cn/ " target="_blank ">
+                                        <span>中国</span>
+                                        <!-- <img src=" " alt="中国 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-2 " data-adid="1566358247702 ">
+                                    <a href="http://www.vans.com.hk/ " target="_blank ">
+                                        <span>香港特别行政区（繁体中文）</span>
+                                        <!-- <img src=" " alt="香港特别行政区（繁体中文） "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-3 " data-adid="1566358299472 ">
+                                    <a href="http://www.vans.com.hk/en/ " target="_blank ">
+                                        <span>香港特别行政区（英文）</span>
+                                        <!-- <img src=" " alt="香港特别行政区（英文） "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-4 " data-adid="1566358313996 ">
+                                    <a href="http://www.vansargentina.com/ " target="_blank ">
+                                        <span>阿根廷</span>
+                                        <!-- <img src=" " alt="阿根廷 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-5 " data-adid="1566358327249 ">
+                                    <a href="https://www.vans.ie/ " target="_blank ">
+                                        <span>爱尔兰</span>
+                                        <!-- <img src=" " alt="爱尔兰 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-6 " data-adid="1566358341221 ">
+                                    <a href="https://www.vans.at/ " target="_blank ">
+                                        <span>奥地利</span>
+                                        <!-- <img src=" " alt="奥地利 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-7 " data-adid="1566358364701 ">
+                                    <a href="http://www.vans.net.au/ " target="_blank ">
+                                        <span>澳大利亚</span>
+                                        <!-- <img src=" " alt="澳大利亚 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-8 " data-adid="1566358375309 ">
+                                    <a href="https://www.vans.com.br/ " target="_blank ">
+                                        <span>巴西</span>
+                                        <!-- <img src=" " alt="巴西 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-9 " data-adid="1566358387707 ">
+                                    <a href="https://www.vans.eu/ " target="_blank ">
+                                        <span>波兰</span>
+                                        <!-- <img src=" " alt="波兰 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-10 " data-adid="1566358399599 ">
+                                    <a href="https://www.vans.de/ " target="_blank ">
+                                        <span>德国</span>
+                                        <!-- <img src=" " alt="德国 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-11 " data-adid="1566358412604 ">
+                                    <a href="http://vans.ru/ " target="_blank ">
+                                        <span>俄罗斯</span>
+                                        <!-- <img src=" " alt="俄罗斯 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-12 " data-adid="1566358425619 ">
+                                    <a href="https://www.vans.fr/ " target="_blank ">
+                                        <span>法国</span>
+                                        <!-- <img src=" " alt="法国 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-13 " data-adid="1566358446927 ">
+                                    <a href="http://www.vans.co.kr/ " target="_blank ">
+                                        <span>韩国</span>
+                                        <!-- <img src=" " alt="韩国 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-14 " data-adid="1566358461395 ">
+                                    <a href="https://www.vans.nl/ " target="_blank ">
+                                        <span>荷兰</span>
+                                        <!-- <img src=" " alt="荷兰 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-15 " data-adid="1566358472746 ">
+                                    <a href="https://www.vans.ca/fr_ca/homepage.html " target="_blank ">
+                                        <span>加拿大（法语）</span>
+                                        <!-- <img src=" " alt="加拿大（法语） "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-16 " data-adid="1566358484086 ">
+                                    <a href="https://www.vans.ca/en_ca/homepage.html " target="_blank ">
+                                        <span>加拿大（英语）</span>
+                                        <!-- <img src=" " alt="加拿大（英语） "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-17 " data-adid="1566358494784 ">
+                                    <a href="http://www.vans.com.my/ " target="_blank ">
+                                        <span>马来西亚</span>
+                                        <!-- <img src=" " alt="马来西亚 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-18 " data-adid="1566358504584 ">
+                                    <a href="https://www.vans.com/shop.html " target="_blank ">
+                                        <span>美国</span>
+                                        <!-- <img src=" " alt="美国 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-19 " data-adid="1566358514744 ">
+                                    <a href="https://www.vans.mx/es_mx/homepage.html " target="_blank ">
+                                        <span>墨西哥（西班牙语）</span>
+                                        <!-- <img src=" " alt="墨西哥（西班牙语） "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-20 " data-adid="1566358531821 ">
+                                    <a href="https://www.vans.pt/ " target="_blank ">
+                                        <span>葡萄牙</span>
+                                        <!-- <img src=" " alt="葡萄牙 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-21 " data-adid="1566358541541 ">
+                                    <a href="http://www.vansjapan.com/ " target="_blank ">
+                                        <span>日本</span>
+                                        <!-- <img src=" " alt="日本 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-22 " data-adid="1566358550767 ">
+                                    <a href="http://www.vans.se/ " target="_blank ">
+                                        <span>瑞典</span>
+                                        <!-- <img src=" " alt="瑞典 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-23 " data-adid="1566358560791 ">
+                                    <a href="https://www.vans.eu/ " target="_blank ">
+                                        <span>瑞士</span>
+                                        <!-- <img src=" " alt="瑞士 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-24 " data-adid="1566358572063 ">
+                                    <a href="https://www.vans.eu/ " target="_blank ">
+                                        <span>土耳其</span>
+                                        <!-- <img src=" " alt="土耳其 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-25 " data-adid="1566358582807 ">
+                                    <a href="https://www.vans.es/ " target="_blank ">
+                                        <span>西班牙</span>
+                                        <!-- <img src=" " alt="西班牙 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-26 " data-adid="1566358594957 ">
+                                    <a href="http://www.vans.com.sg/ " target="_blank ">
+                                        <span>新加坡</span>
+                                        <!-- <img src=" " alt="新加坡 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-27 " data-adid="1566358604621 ">
+                                    <a href="http://www.vans.com.sg/ " target="_blank ">
+                                        <span>新西兰</span>
+                                        <!-- <img src=" " alt="新西兰 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-28 " data-adid="1566358614600 ">
+                                    <a href="https://www.vans.eu/ " target="_blank ">
+                                        <span>以色列</span>
+                                        <!-- <img src=" " alt="以色列 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-29 " data-adid="1566358631823 ">
+                                    <a href="http://www.vans.it/ " target="_blank ">
+                                        <span>意大利</span>
+                                        <!-- <img src=" " alt="意大利 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-30 " data-adid="1566358737587 ">
+                                    <a href="http://www.vans.co.in/ " target="_blank ">
+                                        <span>印度</span>
+                                        <!-- <img src=" " alt="印度 "/> -->
+                                    </a>
+
+                                </li>
+                                <li class="item-31 last " data-adid="1566358754082 ">
+                                    <a href="https://www.vans.co.uk/ " target="_blank ">
+                                        <span>英国</span>
+                                        <!-- <img src=" " alt="英国 "/> -->
+                                    </a>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+<script src="new_file.js "></script>
+<script type="text/javascript ">
+    $(function() {
+        $('#toright').hover(function() {
+            $("#toleft ").hide()
+        }, function() {
+            $("#toleft ").show()
+        })
+        $('#toleft').hover(function() {
+            $("#toright ").hide()
+        }, function() {
+            $("#toright ").show()
+        })
+    })
+
+    var t;
+    var index = 0;
+    //自动播放
+    t = setInterval(play, 3000)
+
+    function play() {
+        index++;
+        if (index > 4) {
+            index = 0
+        }
+        $("#lunbobox ul li ").eq(index).css({
+            "background ": "#999 ",
+            "border ": "1px solid #ffffff "
+        }).siblings().css({
+            "background ": "#cccccc ",
+            "border ": " "
+        })
+
+        $(".lunbo a ").eq(index).fadeIn(1000).siblings().fadeOut(1000);
+    };
+
+    //图片点击切换
+    $("#lunbobox ul li ").click(function() {
+        $(this).css({
+            "background ": "#999 ",
+            "border ": "1px solid #ffffff "
+        }).siblings().css({
+            "background ": "#cccccc "
+        })
+        var index = $(this).index(); //获取索引
+        $(".lunbo a ").eq(index).fadeIn(1000).siblings().fadeOut(1000); //找兄弟节点
+    });
+
+    //轮播图切换
+    $("#toleft ").click(function() {
+        index--;
+        if (index <= 0) {
+            index = 4
+        }
+        console.log(index);
+        $("#lunbobox ul li ").eq(index).css({
+            "background ": "#999 ",
+            "border ": "1px solid #ffffff "
+        }).siblings().css({
+            "background ": "#cccccc "
+        })
+
+        $(".lunbo a ").eq(index).fadeIn(1000).siblings().fadeOut(1000);
+    }); // $("#imgbox a ")获取数组集合 ，用index来控制切换
+
+    $("#toright ").click(function() {
+        index++;
+        if (index > 4) {
+            index = 0
+        }
+        console.log(index);
+        $(this).css({
+            "opacity ": "0.5 "
+        })
+        $("#lunbobox ul li ").eq(index).css({
+            "background ": "#999 ",
+            "border ": "1px solid #ffffff "
+        }).siblings().css({
+            "background ": "#cccccc "
+        })
+        $(".lunbo a ").eq(index).fadeIn(1000).siblings().fadeOut(1000);
+    });
+    $("#toleft,#toright ").hover(function() {
+                $(this).css({
+                    "color ": "black "
+                })
+            },
+            function() {
+                $(this).css({
+                    "opacity ": "0.3 ",
+                    "color ": " "
+                })
+            })
+        //鼠标移动
+    $("#lunbobox ul li,.lunbo a img,#toright,#toleft ").hover(
+        //移进
+        function() {
+            $('#toright,#toleft').show()
+            clearInterval(t);
+        },
+        //移开
+        function() {
+            t = setInterval(play, 3000)
+
+            function play() {
+                index++;
+                if (index > 4) {
+                    index = 0
+                }
+                $("#lunbobox ul li ").eq(index).css({
+                    "background ": "#999 ",
+                    "border ": "1px solid #ffffff "
+                }).siblings().css({
+                    "background ": "#cccccc "
+                })
+                $(".lunbo a ").eq(index).fadeIn(1000).siblings().fadeOut(1000);
+            }
+        })
+</script>
+<script>
+
+    // 定义一个菜单类
+    class Menu {
+        constructor(title, className, href,subClassName) {
+            this.title = title;
+            this.className = className;
+            this.subClassName = subClassName;
+            this.href = href;
+            this.children = [];
+        }
+
+        // 添加子菜单
+        addSubMenu(menu) {
+            this.children.push(menu);
+        }
+
+        // 创建dom
+        createMenu(parentDom) {
+            // 1、创建li
+            let liDom = document.createElement("li ");
+            liDom.className = this.className;
+            parentDom.appendChild(liDom);
+
+            // 2、创建标题（a标签）
+            let aDom = document.createElement("a ");
+            aDom.href=this.href;
+            aDom.innerHTML = this.title;
+            liDom.appendChild(aDom);
+            
+            // 3、处理子菜单
+            if(this.children.length>0){
+                // 1)、给孩子创建个容器
+                let ulDom = document.createElement("ul ");
+                ulDom.className = this.subClassName;
+                liDom.appendChild(ulDom);
+
+                // 2)、创建孩子
+                for(let i=0;i<this.children.length;i++){
+                    this.children[i].createMenu(ulDom);//递归：自己调用自己
+                }
+            }
+        }
+    }
+
+    // 定义一个根菜单类
+    class RootMenu{
+        constructor(subClassName){
+            this.subClassName = subClassName;
+            this.children = [];
+        }
+        addSubMenu(menu) {
+            this.children.push(menu);
+        }
+
+        createMenu(parentDom){
+            if(this.children.length>0){
+                // 1)、给孩子创建个容器
+                let ulDom = document.createElement("ul ");
+                ulDom.className = this.subClassName;
+                parentDom.appendChild(ulDom);
+
+
+                // 2)、创建孩子
+                for(let i=0;i<this.children.length;i++){
+                    this.children[i].createMenu(ulDom);//递归：自己调用自己
+                }
+            }
+        }
+    }
+
+
+    // 流程：
+    window.onload = function(){
+        // 一、创建菜单对象：        
+        let rootMenu = new RootMenu("one ");
+        // 1、创建第一级菜单
+        let menu1 = new Menu("关于VANS ", "oneli ", "# ","two ");        
+        rootMenu.addSubMenu(menu1);
+        let menu2 = new Menu("热门 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu2);
+        let menu3 = new Menu("男子 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu3);
+        let menu3 = new Menu("女子" ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu4);
+        let menu3 = new Menu("童鞋 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu5);
+        let menu3 = new Menu("滑板 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu6);
+        let menu3 = new Menu("CUSTOMS定制鞋 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu7);
+        let menu3 = new Menu("更多产品 ", "oneli ", "# ","two ");  
+        rootMenu.addSubMenu(menu8);
+        
+        // 2、创建二级菜单
+        let menu11 = new Menu("二级菜单11 ","twoli ","# ","three ");
+        menu1.addSubMenu(menu11);
+        let menu12 = new Menu("二级菜单12 ","twoli ","# ","three ");
+        menu1.addSubMenu(menu12);        
+        let menu13 = new Menu("二级菜单13 ","twoli ","# ","three ");
+        menu1.addSubMenu(menu13);
+
+        let menu21 = new Menu("二级菜单21 ","twoli ","# ","three ");
+        menu2.addSubMenu(menu21);      
+        
+        // 3、创建三级菜单
+        let menu111 = new Menu("三级菜单111 ","threeli ","http://www.baidu.com ");
+        menu11.addSubMenu(menu111);
+        let menu112 = new Menu("三级菜单112 ","threeli ","http://www.1000phone.com ");
+        menu11.addSubMenu(menu112);        
+        
+        // 二、创建dom
+        rootMenu.createMenu(document.getElementById("top-box "));
+    }
+
+</script>

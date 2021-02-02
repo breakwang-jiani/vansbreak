@@ -1,0 +1,205 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #666;
+    font-style: normal;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    color: #666;
+    font: 14px/150% "Franklin-Book", Helvetica, Arial, "冬青黑体", "Hiragino Sans GB", "microsoft yahei", "SimHei", sans-serif;
+    min-width: 1110px;
+    word-break: break-all;
+    /* background-color: #F1F2ED; */
+    position: relative;
+    overflow-x: hidden;
+}
+
+.maxFooter {
+    width: 100%;
+    position: relative;
+    background-color: #1c1c1c;
+    margin-top: 60px;
+    z-index: 9;
+}
+
+.footer {
+    width: 1440px;
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 30px 0;
+}
+
+.footer .foot-l {
+    width: 33.333%;
+    min-height: 265px;
+    border-right: 1px solid #919191;
+}
+
+.footer .foot-l .shopmax-keys dd a {
+    display: block;
+    text-transform: uppercase;
+}
+
+.fl {
+    float: left;
+}
+
+.footer .foot-l .AdvBanner span {
+    color: #fff;
+    line-height: 26px;
+}
+
+.foot-l .shopmax-keys {
+    float: left;
+    width: 170px;
+}
+
+dl {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    float: left;
+}
+
+.footer .foot-l .shopmax-keys .maxTitle,
+.footer .foot-l .shopmax-keys .maxTitle a {
+    color: #fff;
+    font-weight: bold;
+}
+
+.footer .foot-l a {
+    font: 15px/26px "Franklin-Book", "冬青黑体", "microsoft yahei";
+    color: #589BC6;
+}
+
+.footer .foot-c dl dt a,
+.footer .basic-mail h3 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+    cursor: default;
+    line-height: 26px;
+}
+
+.footer .foot-c dl dd {
+    margin-top: 25px;
+}
+
+.footer .foot-c dl dd a {
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    cursor: default;
+    line-height: 26px;
+}
+
+.footer .foot-c dl dd a.item-2 {
+    color: #589BC6;
+    font-weight: normal;
+    margin: 0px 0 25px 0;
+    cursor: inherit;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.footer .foot-c {
+    margin-left: 40px;
+    width: 33.333%;
+    min-height: 265px;
+    border-right: 1px solid #919191;
+}
+
+.footer .foot-c dl dd a {
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    cursor: default;
+    line-height: 26px;
+}
+
+.fr {
+    float: right;
+}
+
+.footer .foot-r {
+    width: 330px;
+    height: 265px;
+    /* border-left: 1px solid #919191; */
+}
+
+.footer .SureLook h3 {
+    margin: 0 0 30px 0;
+    display: block;
+    width: 220px;
+    text-align: center;
+}
+
+.footer .SureLook ul li {
+    float: left;
+    margin-right: 10px;
+    width: 36px;
+    height: 36px;
+}
+
+element.style {}
+
+.F-buttom {
+    width: 1440px;
+    min-height: 91px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.F-buttom .b-logo {
+    float: left;
+    width: 222px;
+    height: 115px;
+    background: url(img/vans.png) no-repeat;
+    background-size: 100% auto;
+}
+
+.F-buttom .b-l {
+    float: left;
+    margin-left: 22px;
+}
+
+.b-Country {
+    position: relative;
+    margin-top: 10px;
+}
+
+.b-Country .title {
+    width: 88px;
+    height: 35px;
+    line-height: 35px;
+    padding-left: 10px;
+    cursor: pointer;
+    background: #64686b url(img/下拉箭头.png) no-repeat 78px center;
+    background-size: 12px auto;
+}
+
+.b-Country .country-list {
+    display: none;
+    position: absolute;
+    bottom: 35px;
+    left: 0;
+    width: 240px;
+    height: 410px;
+    overflow-y: scroll;
+    z-index: 1010;
+    background-color: #fff;
+    border: solid 1px #ccc;
+}

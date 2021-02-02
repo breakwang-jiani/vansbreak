@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: #666666;
+    min-width: 1110px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    color: #666;
+    font: 14px/150% "Franklin-Book", Helvetica, Arial, "冬青黑体", "Hiragino Sans GB", "microsoft yahei", "SimHei", sans-serif;
+    min-width: 1110px;
+    word-break: break-all;
+    background-color: #F1F2ED;
+    position: relative;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: Lucida Grande, Lucida Sans Unicode, Tahoma, Helvetica, Arial, Hiragino Sans GB, sans-serif;
+}
+
+body {
+    font-size: 75%;
+    line-height: 1.5;
+}
+
+body {
+    color: #666;
+    font: 14px/150% "Franklin-Book", Helvetica, Arial, "冬青黑体", "Hiragino Sans GB", "microsoft yahei", "SimHei", sans-serif;
+    min-width: 1110px;
+    word-break: break-all;
+    background-color: #F1F2ED;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.btn-major span,
+.action-buynow span {
+    background: #C9192E;
+    filter: none;
+    -webkit-transition: background-color 0.2ms linear;
+    -moz-transition: background-color 0.2s linear;
+    -o-transition: background-color 0.2s linear;
+    -ms-transition: background-color 0.2s linear;
+    transition: background-color 0.2s linear;
+}

@@ -1,0 +1,276 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+ul,
+ol,
+dl,
+dd,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea,
+hr,
+div,
+em,
+strong {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+section {
+    background-color: #F1F2ED;
+    margin-top: 30px;
+}
+
+body {
+    font-family: "微软雅黑";
+    margin: 0 auto;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.dw-menu {
+    text-align: center;
+    line-height: 12px;
+}
+
+.dw-menu ul li {
+    padding: 0 25px;
+    border-right: 1px solid #607285;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: .1em;
+}
+
+footer a {
+    text-decoration: none;
+    color: #687593;
+    letter-spacing: .1em;
+}
+
+.dw-menu ul li:last-child {
+    border: none;
+}
+
+.dw-info {
+    text-align: center;
+    color: #607285;
+    padding-top: 30px;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+.dw-info .copyright-list span {
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.dw-info .copyright-list p {
+    margin-top: 10px;
+    letter-spacing: .1em;
+}
+
+footer a:hover {
+    color: white;
+}
+
+ 
+
+.fixnav {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+
+
+
+#main {
+	width: 620px;
+	margin: auto;
+}
+
+#main h1 {
+	padding-top: 30px;
+	font-size: 24px;
+	margin-bottom: 15px;
+	color: #636363;
+	font-weight: 600;
+}
+
+#main .login-box {
+
+	height: 424px;
+	border: 1px solid #cdcdcd;
+
+}
+
+#main .login-box-left {
+	width: 238px;
+	padding: 60px 30px;
+	padding-right: 40px;
+	float: left;
+	color: #636363;
+
+}
+
+#main .login-box-left .message {
+	font-size: 12px;
+}
+#main .login-box-left .message li{
+	height: 50px;
+}
+#main .login-box-left .message li span {
+	color: red;
+}
+#main .login-box-left .one {
+	font-size: 14px;
+	margin-bottom: 10px;
+	height: 19px;
+}
+
+#main .login-box-left .one span:first-of-type {
+	float: left;
+
+}
+
+#main .login-box-left .one span:last-of-type {
+	float: right;
+}
+
+#main .login-box-left input {
+	background-color: #ebebeb;
+	font-size: 11px;
+	border: none;
+	padding: 0 8px;
+	height: 28px;
+	/* 	margin-bottom: 30px; */
+	border-radius: 5px;
+}
+
+#main .login-box-left .checkbox-wrapper input {
+	margin-bottom: 0;
+	width: 16px;
+	height: 16px;
+	margin-right: 5px;
+	border-color: #ebebeb;
+}
+
+#main .login-box-left .checkbox-wrapper em {
+	color: #000000;
+	margin-top: 0;
+	text-decoration: underline;
+
+}
+
+#main .login-box-left .login-btn {
+	width: 208px;
+	padding: 7px 15px;
+	background-color: #000000;
+	color: #fff;
+	font-size: 13px;
+	margin-bottom: 30px;
+}
+
+#main .login-box-left .phone {
+	width: 220px;
+
+
+}
+
+#main .login-box-left .iconfont {
+	font-size: 25px;
+}
+
+#main .login-box-left button {
+	width: 80px;
+	height: 30px;
+	border-radius: 15px;
+
+}
+
+#main .login-box-left .code button {
+	background-color: #ebebeb;
+}
+
+#main .login-box-left p.txt {
+	font-size: 12px;
+}
+
+.pwd-box button {
+	background-color: #000000;
+	color: #fff;
+}
+
+#main .login-box-right {
+	width: 208px;
+	padding: 60px 50px;
+	float: left;
+	position: relative;
+	color: #636363;
+}
+
+#main .login-box-right p:first-of-type {
+	font-size: 14px;
+
+}
+
+#main .login-box-right p:nth-of-type(2) {
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+#main .login-box-right::before {
+	content: '';
+	display: block;
+	width: 1px;
+	height: 145px;
+	background-color: #d4d4d4;
+	position: absolute;
+	left: 0;
+	top: 76px;
+}
+
+#main .login-box-right i{
+	display: block;
+	width: 176px;
+	height: 14px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	border-radius: 15px;
+	height: 30px;
+	background-color: #fff;
+	font-size: 12px;
+	padding: 7px 15px;
+	text-align: center;
+	margin-top: 50px;
+	cursor: pointer;
+}
+#notice{
+	width: 980px;
+	height: 32px;
+	margin: 16px auto 0;
+	display: flex;justify-content: center;
+	align-items: center;
+	font-size: 10px;
+	color: #5e5e5e;
+	margin-bottom: 40px;
+}
+ 

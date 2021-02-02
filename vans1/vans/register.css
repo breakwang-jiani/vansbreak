@@ -1,0 +1,109 @@
+#main{
+	width: 658px;
+	height: 380px;
+	padding: 30px;
+	border: 1px solid #d9d9d9;
+	margin: 30px auto 0;
+ 
+}
+#main .title{
+	color: #636363;
+	font-size: 24px;
+	font-weight: 600;
+	padding-bottom: 20px;
+} 
+#main p{
+	font-size: 10px;
+	color: #A0A0A0;
+}
+.main-caption{
+	height: 267px;
+}
+.main-caption li{
+	float: left;
+	font-size:12px;
+	margin-right: 25px;
+} 
+.main-caption li label{
+	float: left;
+	width: 95px;
+	height: 32px;
+	line-height: 32px;
+}
+.main-caption li>div{
+	float: left;
+	width: 205px;
+	height: 50px;
+	 
+}
+.main-caption li .gender{
+	position: relative;
+	width: 170px;
+	height: 30px;
+}
+.main-caption li>div .gender-text{
+	display: block;
+	width: 170px;
+	height: 30px;
+	background-color: #ebebeb;
+	 
+	line-height: 30px;
+	padding-left: 3px;
+}
+ 
+.main-caption li>div select{
+	position: absolute;
+	width: 170px;
+	height: 30px;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	border: 1px solid red;
+}
+.main-caption li em {
+	width: 100px;
+	height: 30px;
+	 
+	background-color: #ebebeb;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+
+	 
+	/* float: left; */
+}
+.main-caption li>div input{
+	font-size: 12px;
+	width: 170px;
+	height: 30px;
+	padding: 0 8px;
+	border: none;
+	background-color: #ebebeb;
+}
+.main-caption li span{
+	color: red;
+}
+.main-caption li:last-of-type i{
+	color: #000000;
+		margin-top: 0;
+		text-decoration: underline;
+}
+.main-caption li:last-of-type{
+	color: #A0A0A0;
+}
+#main .right-btn{
+	width: 54px;
+	height: 27px;
+	font-size: 13px;
+	padding: 7 15px;
+	background-color: #000000;
+	cursor: pointer;
+	color: white;
+	float: right;
+	text-align: center;
+	line-height: 27px;
+	border: 1px solid black;
+	border-radius: 15px;
+	cursor: pointer;
+}
+  

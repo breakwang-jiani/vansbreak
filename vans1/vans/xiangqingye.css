@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F1F2ED;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+.maxpathbox {
+    margin-top: 19px;
+    /* overflow: hidden; */
+    /* width: 1440px; */
+    height: 88px;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-color: #F1F2ED;
+}
+
+.maxpathbox .maxPath {
+    width: 1440px;
+    /* background-color: violet; */
+    margin: auto;
+}
+
+.maxpathbox .maxPath .beb-nav {
+    font-size: 16px;
+    line-height: 88px;
+    font-weight: bold;
+    font-family: "Franklin-Demi", "冬青黑体", "microsoft yahei";
+}
+
+.maxpathbox .maxPath .first {
+    color: #589BC6;
+    font-weight: 600;
+}
+
+.maxpathbox .last {
+    color: #64686b;
+    background: none;
+}
+
+.maxpathbox .maxPath .select-action-orderby {
+    width: 240px;
+    height: 46px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: "Franklin-Roman", "冬青黑体", "microsoft yahei";
+    border: 0;
+    color: #666;
+    vertical-align: 0;
+    display: inline-block;
+    position: relative;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Franklin-Roman", "冬青黑体", "microsoft yahei";
+    border: 1px solid #d2d2d2;
+    background: #fff;
+    position: relative;
+    float: right;
+    margin-top: 19px;
+    background-color: #F1F2ED;
+}
+
+label {
+    line-height: 46px;
+    margin-left: 17px;
+}
+
+.body {
+    background-color: #F1F2ED;
+}
+
+.maxpathbox-picture {
+    width: 1440px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 33px;
+    background-color: #F1F2ED;
+}
+
+.filter_lists {
+    width: 1440px;
+    margin: auto;
+}
+
+.filter_lists-left {
+    width: 422px;
+    height: 185px;
+    background-color: #fff;
+    float: left;
+}
+
+.filter_lists-left span {
+    min-width: 15px;
+    height: 44px;
+    line-height: 44px;
+    padding: 0 15px;
+    border: 1px solid #d2d2d2;
+    text-align: center;
+    font-size: 15px;
+    color: #589BC6;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.filter_lists-left h2,
+h3 {
+    width: 100%;
+    margin-right: 0;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    float: none;
+    height: 66px;
+    line-height: 66px;
+    color: #000;
+    cursor: pointer;
+}
+
+.filter_lists-left h2 i {
+    font-weight: 800;
+    width: 20px;
+    height: 6px;
+    background-color: black;
+}
+
+.filter_lists-left h3 {
+    width: 100%;
+    margin-right: 0;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    /* color: #fff; */
+    float: none;
+    height: 66px;
+    line-height: 66px;
+    color: #000;
+    cursor: pointer;
+}
+
+.filter_lists-left {
+    margin-bottom: 10px;
+}
+
+.filter_lists-left h3 {
+    margin-top: 22px;
+}
+
+.action-goods-img li {
+    width: 282px;
+    height: 430px;
+    float: left;
+    margin-left: 52px;
+}
+
+.action-goods-img h3 {
+    min-height: 34px;
+    color: #888;
+    overflow: hidden;
+    padding: 0 10px;
+    font-family: "adihrg", "PingFangSC-Regular", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", sans-serif;
+    font-size: 14px;
+    color: red;
+    font-weight: 900;
+    text-align: center;
+}
+
+.action-goods-img h4 {
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.action-goods-img h5 {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: FRADMCN, "冬青黑体", "microsoft yahei";
+    text-align: center;
+    margin-top: 42px;
+}
+
+.suppose {
+    position: relative;
+    width: 1440px;
+    margin: 0 auto;
+    height: 580px;
+    /* background-color: #fff; */
+}
+
+.suppose .goods_shopmax_list_428 ul h6 {
+    background: none;
+    width: auto;
+    font-size: 32px;
+    color: #000;
+    letter-spacing: 3px;
+    margin-top: 1290px;
+    text-align: center;
+}
+
+.suppose .goods_shopmax_list_428 ul {
+    background-color: #fff;
+    /* width: 1440px; */
+    height: 580px;
+    margin-top: 1380px;
+}
+
+.heade {
+    background-color: #fff;
+}
+
+.suppose .goods_shopmax_list_428 ul li {
+    float: left;
+    /* margin-top: 400px; */
+    text-align: center;
+    margin: auto;
+    /* line-height: 580px; */
+    margin-top: 100px;
+}
+
+.suppose .goods_shopmax_list_428 ul .li {
+    /* margin-top: 200px; */
+    margin-left: 250px;
+}
+
+.suppose .goods_shopmax_list_428 ul li img {
+    border: none;
+    margin: 0 auto;
+    vertical-align: middle;
+    line-height: 245px;
+    max-width: 245px;
+    max-height: 245px;
+}

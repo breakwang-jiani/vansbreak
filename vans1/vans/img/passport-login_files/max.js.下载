@@ -1,0 +1,33 @@
+$$('.keywords').addEvent('focus',function(){
+	$$('.maxKey')[0].show();
+}).addEvent('blur',function(){
+	setTimeout(function(){
+			$$('.maxKey')[0].hide();
+	},500)
+	
+})
+$$('.hdSearch')[0].getElement('a').addEvent('click',function(e){
+	e.stopPropagation();
+})
+$('Menu').getElements('.item').addEvent('mouseenter',function(){
+	$$('.keywords')[0].blur();
+	$$('.maxKey')[0].hide();
+})
+
+$('gotop').addEvent('click', function() {
+	    new Fx.Scroll(window, {
+	        link: 'cancel'       
+	    }).toTop()
+	});
+try {
+		var a = $$('.fbody a[href=http://www.shopex.cn]');
+		if (a && a.length > 0){
+        	var maxcopya = a[0].getParent('div');
+    	}
+    	var b = $$('.maxCopyright');
+    	if (b && b.length > 0){
+        	b[0].adopt(maxcopya)
+    	}
+    } catch(e) {};  
+
+   

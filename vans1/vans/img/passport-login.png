@@ -1,0 +1,1926 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://vans.com.cn/passport-login.html -->
+<html lang="en" slick-uniqueid="4"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+
+
+<!--↑↑模板中请务必使用HTML5的标准DOCTYPE↑↑-->
+<meta name="generator" content="ecstore.b2c">
+<link type="canonical" href="https://vans.com.cn/index.php/passport-login.html">
+
+<meta name="baidu-site-verification" content="fIB2n8DSMG"><script type="text/javascript" async="" src="./passport-login_files/c11f7bee-9092-4264-aa88-587354592ec0.js.下载"></script><script async="" src="./passport-login_files/analytics.js.下载"></script><script type="text/javascript" src="./passport-login_files/external_style2-8726edebbf.js.下载"></script><script async="" src="./passport-login_files/gtm.js.下载"></script><script async="" src="./passport-login_files/gtm.js(1).下载"></script><script src="./passport-login_files/satelliteLib-23efc1931121b5618c4b9967f04088ccd9b9a44b.js.下载"></script><script src="./passport-login_files/AppMeasurement.min.js.下载" async=""></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DKV6PM');</script>
+<!-- End Google Tag Manager --><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P39TR3G');</script>
+<!-- End Google Tag Manager -->
+<script src="./passport-login_files/lang.js.下载"></script><link href="./passport-login_files/typical.css" rel="stylesheet" media="screen, projection"><script src="./passport-login_files/moo.min.js.下载"></script><script src="./passport-login_files/ui.min.js.下载"></script>	
+
+
+<link rel="icon" href="https://img2.vans.com.cn/public/app/site/statics/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://img2.vans.com.cn/public/app/site/statics/favicon.ico" type="image/x-icon">
+<link href="./passport-login_files/basic.min.css" rel="stylesheet" media="screen, projection"><script src="./passport-login_files/lang.js(1).下载"></script>
+
+<script>
+var Shop = {"url":{"shipping":"\/cart-shipping.html","total":"\/cart-total.html","region":"\/tools-selRegion.html","payment":"\/cart-payment.html","purchase_shipping":"\/cart-purchase_shipping.html","purchase_def_addr":"\/cart-purchase_def_addr.html","purchase_payment":"\/cart-purchase_payment.html","get_default_info":"\/cart-get_default_info.html","diff":"\/product-diff.html","fav_url":"\/member-ajax_fav.html","datepicker":"https:\/\/img3.vans.com.cn\/public\/app\/site\/statics\/js_mini","placeholder":"https:\/\/img2.vans.com.cn\/public\/app\/b2c\/statics\/images\/imglazyload.gif"},"base_url":"\/"};
+</script>
+
+  <script src="./passport-login_files/shop.min.js.下载"></script>
+<link rel="stylesheet" href="./passport-login_files/widgetsproinstance-get_css-Vans-cGFzc3BvcnQuaHRtbA==.html"><link href="./passport-login_files/style.css" rel="stylesheet" type="text/css">
+<link href="./passport-login_files/member.css" rel="stylesheet" type="text/css">
+<link href="./passport-login_files/fonticon.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./passport-login_files/getShortUrl.jsp" charset="UTF-8" id="pagereferrerUpload"></script><link id="live800_chat_style" type="text/css" rel="stylesheet" href="./passport-login_files/chat_inner_style2-wall-ef762675a8.css"><style id="live800_customStyle" type="text/css">.live800_notice label {color: }.live800_popTitle {border-top: 2px solid }.live800_status_free span.jumper {background-position: 1px -62px}.live800_status_free span.feedback {background-position: -25px -62px}.live800_minimize_icon {background-position: 0 -88px}.live800_close_icon {background-position: -35px -88px}.live800_status_free span:hover, .live800_minimize_icon:hover,.live800_close_icon:hover { background-color: rgba(255,255,255,0.1)}</style><script id="live800_iframe_message" type="text/javascript" src="./passport-login_files/messenger-8113cd8f16.js.下载" charset="UTF-8"></script><style id="live800_customIconStyle" type="text/css">.live800_entry_2{right:30px;left:auto;bottom:30px;}</style></head><body class="max-passport-page">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P39TR3G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header class="Heade">
+    <div class="header">
+        <div class="Top">                                                             
+            <!-- <div class="hdCountry">
+                
+            </div>  -->
+            <div class="hdLinks">
+                 <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/exshop-search.html&#39;,&#39;搜索店铺&#39;)" class="vans-icon-addr item-1">搜索店铺</a> <script>
+// function js_method(url,obj)
+// {
+// 	ga('send', 'event', 'outbound', 'click', obj);
+// 	window.location.href=url;
+// }
+</script>            </div>            
+            <div class="hdLogin">
+                <div id="loginBar_id" class="ie-bug">
+ <a href="https://vans.com.cn/passport-login.html" class="vans-icon-mem">登录</a><!-- <span>/</span> --><a href="https://vans.com.cn/passport-signup.html" class="vans-icon-break">注册</a>
+</div>
+<div id="memberBar_id" style="display:none">
+  您好<a href="https://vans.com.cn/member-orders.html" id="uname_id"></a>&nbsp;
+  <a href="https://vans.com.cn/passport-logout.html">退出</a>
+</div>
+<script>
+(function(){
+	var uname = Cookie.read('UNAME') || '';
+	var checklogin = new Request({
+    	url: '/passport-ajax_check_login.html',
+	    method: 'post',
+	    onSuccess:function(re) {
+		    re = JSON.decode(re);
+		    if(re.status){	      	
+		    	console.log('已登录，用户名为'+uname);
+		    	$('memberBar_id').show();
+		    	$('loginBar_id').hide();
+		    	$('uname_id').innerHTML = uname;
+		    }
+	      }
+    }).post();
+})()
+
+	
+</script>
+
+
+
+            </div>  
+            <div class="hdCart">
+                <div class="shop-cart-mini has-minicart" id="shop_cart_mini">
+	<dl>
+		<dt class="minicart-text">
+			<a href="javascript:void(0);" onclick="js_method(&#39;/cart.html&#39;,&#39;我的购物车&#39;)" class="title-str vans-icon-cart">我的购物车</a>		
+					<div class="cart-number"><em class="op-cart-number" style="display: none;"></em>
+					</div>
+					
+
+		</dt>
+		<dd style="width:300px">	
+			<span class="arr-t"><i></i></span>
+			<div class="cart-mini-container">
+			</div>
+		</dd>
+	</dl>
+</div>
+<script>
+// function js_method(url,obj)
+// {
+// 	ga('send', 'event', 'outbound', 'click', obj);
+// 	window.location.href=url;
+// }
+</script>
+
+            </div>
+        </div>      
+    </div>     
+    <div class="hdMenuBox clear cur curr">
+        <div class="hdMenu clear">
+            <div class="Logo fl" onclick="location.href=&#39;https://vans.com.cn/index.php&#39;">
+                
+            </div>
+               
+            <div class="hdSearch">
+                <div class="maxSearch">
+	<form action="https://vans.com.cn/search-result.html" method="post" class="topSearch1 SearchBar  searchBar_402">
+	  <input type="text" name="search_keywords" value="" placeholder="搜索 VANS" autocompleter="associate_autocomplete_goods:name,goods_id" ac_options="{}" class="inputstyle keywords" x-webkit-speech="">
+	  <button type="submit" value="" class="btn_search vans-icon-search" onfocus="this.blur();"></button>
+	</form>
+
+	<form action="https://vans.com.cn/articlesearch.html" method="get" class="topSearch2 SearchBar" style="display:none;">
+	  <input type="text" name="keyword" value="" placeholder="搜索 VANS" ac_options="{}" class="inputstyle keywords" x-webkit-speech="">
+	  <button type="submit" value="" class="btn_search vans-icon-search" onfocus="this.blur();"></button>
+	</form>
+</div>
+
+<div class="maxKey" style="display: none;">
+
+ 
+	<a href="https://vans.com.cn/gallery-index---0---337.html" class="first">
+		vans红色	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---334.html" class="">
+		新年好礼	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---331.html" class="">
+		牛年限定	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---320.html" class="">
+		羽绒服	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---322.html" class="">
+		加绒鞋	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---31.html" class="">
+		SK8-HI	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---325.html" class="">
+		仿羊羔绒	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---271.html" class="">
+		卫衣	</a> 
+ 
+	<a href="https://vans.com.cn/product/customs_animal_print_pack_fa20" class="">
+		豹纹	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---208.html" class="">
+		棋盘格	</a> 
+ 
+	<a href="https://vans.com.cn/customs.html" class="">
+		定制鞋	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---199.html" class="">
+		官网独家	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---107.html" class="">
+		新品	</a> 
+ 
+	<a href="https://vans.com.cn/gallery-index---0---156.html" class="">
+		经典款	</a> 
+ 
+	<a href="https://vans.com.cn/skate_community" class="last">
+		职业滑板系列	</a> 
+<ul>	<li><a href="https://vans.com.cn/passport-login.html">
+	   <img src="https://vans.com.cn/passport-login.html" alt="">
+	   </a></li>
+	</ul>
+</div>
+
+
+                </div>  
+
+            <div class="fr" id="Menu">
+                <ul>
+                    
+
+	<li class="item left">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/article-vans-l-21.html" onclick="js_method(&#39;https://vans.com.cn/article-vans-l-21.html&#39;,&#39;关于   &lt;em&gt;VANS&lt;/em&gt;&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 关于   <em>VANS</em></a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/thisisoffthewall" onclick="js_method(&#39;https://vans.com.cn/thisisoffthewall&#39;,&#39;THIS IS OFF THE WALL&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">THIS IS OFF THE WALL</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/skateboardinginbeijing/index.html&#39;,&#39;中国滑手故事&#39;,&#39;&#39;,&#39;_blank&#39;)">中国滑手故事</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/bohanphoenix&#39;,&#39;BOHAN PHOENIX&#39;,&#39;&#39;,&#39;&#39;)" class="last">BOHAN PHOENIX</a>
+															</div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/article-artist-sl-23-global.html" onclick="js_method(&#39;https://vans.com.cn/article-artist-sl-23-global.html&#39;,&#39;运动员&#39;,&#39;&#39;,&#39;&#39;)" title="">运动员</a></div>
+													</li>
+											<li class="item-3">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://houseofvansasia.com.cn/musicianswanted/zh-cn" onclick="js_method(&#39;https://houseofvansasia.com.cn/musicianswanted/zh-cn&#39;,&#39;VANS音乐人征集大赛&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">VANS音乐人征集大赛</a></div>
+													</li>
+											<li class="item-4">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/article-vans-l-21.html" onclick="js_method(&#39;https://vans.com.cn/article-vans-l-21.html&#39;,&#39;新闻&#39;,&#39;&#39;,&#39;&#39;)" title="">新闻</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/article/Vans_skater_xiaohei_bhscene&#39;,&#39;孤独之《成》- VANS职业滑手小黑个人影片幕后花絮释出&#39;,&#39;&#39;,&#39;&#39;)">孤独之《成》- VANS职业滑手小黑个人影片幕后花絮释出</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/checkerboardday/&#39;,&#39;棋盘格日&#39;,&#39;&#39;,&#39;&#39;)" class="last">棋盘格日</a>
+															</div>
+													</li>
+										
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/article-zancun-3694.html?_t=09a13679c678a8ff543eaddaf0eeaf81" onclick="js_method(&#39;https://vans.com.cn/article-zancun-3694.html?_t=09a13679c678a8ff543eaddaf0eeaf81&#39;,&#39;热门&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 热门</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/hot-product" onclick="js_method(&#39;https://vans.com.cn/hot-product&#39;,&#39;热门产品&#39;,&#39;&#39;,&#39;&#39;)" title="">热门产品</a></div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/Article/vans_skate_school_2020_last_stop" onclick="js_method(&#39;https://vans.com.cn/Article/vans_skate_school_2020_last_stop&#39;,&#39;滑板学校&#39;,&#39;&#39;,&#39;&#39;)" title="">滑板学校</a></div>
+													</li>
+										
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item center">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---36.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---36.html&#39;,&#39;男子&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 男子</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---94.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---94.html&#39;,&#39;鞋款&#39;,&#39;&#39;,&#39;&#39;)" title="">鞋款</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---4.html&#39;,&#39;SK8-HI&#39;,&#39;&#39;,&#39;&#39;)">SK8-HI</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---15.html&#39;,&#39;OLD SKOOL&#39;,&#39;&#39;,&#39;&#39;)">OLD SKOOL</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---16.html&#39;,&#39;SLIP-ON&#39;,&#39;&#39;,&#39;&#39;)">SLIP-ON</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---14.html&#39;,&#39;ERA&#39;,&#39;&#39;,&#39;&#39;)">ERA</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---13.html&#39;,&#39;AUTHENTIC&#39;,&#39;&#39;,&#39;&#39;)">AUTHENTIC</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---52.html&#39;,&#39;经典系列&#39;,&#39;&#39;,&#39;&#39;)">经典系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---146.html&#39;,&#39;职业滑板系列&#39;,&#39;&#39;,&#39;&#39;)">职业滑板系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---144.html&#39;,&#39;冲浪系列&#39;,&#39;&#39;,&#39;&#39;)">冲浪系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---117.html&#39;,&#39;舒舒服服系列&#39;,&#39;&#39;,&#39;&#39;)">舒舒服服系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---148.html&#39;,&#39;VAULT系列&#39;,&#39;&#39;,&#39;&#39;)" class="last">VAULT系列</a>
+															</div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---88.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---88.html&#39;,&#39;服装&#39;,&#39;&#39;,&#39;&#39;)" title="">服装</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---131.html&#39;,&#39;卫衣&#39;,&#39;&#39;,&#39;&#39;)">卫衣</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---135.html&#39;,&#39;长裤&#39;,&#39;&#39;,&#39;&#39;)">长裤</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---132.html&#39;,&#39;夹克&#39;,&#39;&#39;,&#39;&#39;)">夹克</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---133.html&#39;,&#39;羽绒服/棉服&#39;,&#39;&#39;,&#39;&#39;)">羽绒服/棉服</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/jacketguide&#39;,&#39;夹克指南&#39;,&#39;&#39;,&#39;&#39;)">夹克指南</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---269.html&#39;,&#39;衬衫&#39;,&#39;&#39;,&#39;&#39;)">衬衫</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---127.html&#39;,&#39;T恤&#39;,&#39;&#39;,&#39;&#39;)">T恤</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---134.html&#39;,&#39;短裤/沙滩裤&#39;,&#39;&#39;,&#39;&#39;)" class="last">短裤/沙滩裤</a>
+															</div>
+													</li>
+											<li class="item-3">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---90.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---90.html&#39;,&#39;配件&#39;,&#39;&#39;,&#39;&#39;)" title="">配件</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---65.html&#39;,&#39;背包&#39;,&#39;&#39;,&#39;&#39;)">背包</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---136.html&#39;,&#39;腰带&#39;,&#39;&#39;,&#39;&#39;)">腰带</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---62.html&#39;,&#39;钱包&#39;,&#39;&#39;,&#39;&#39;)">钱包</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---63.html&#39;,&#39;袜子&#39;,&#39;&#39;,&#39;&#39;)">袜子</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---61.html&#39;,&#39;帽子&#39;,&#39;&#39;,&#39;&#39;)" class="last">帽子</a>
+															</div>
+													</li>
+										
+						<li class="last-img" style="width:349px;height:232px;text-align:right;">
+							<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/gore-tex_ho20_dec&#39;,&#39;&#39;)"><img src="./passport-login_files/66b3395575d5cbee6af8561a72b8434c55bc89a6.jpg" alt=""></a>
+						</li>
+					
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---37.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---37.html&#39;,&#39;女子&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 女子</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---95.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---95.html&#39;,&#39;鞋款&#39;,&#39;&#39;,&#39;&#39;)" title="">鞋款</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---24.html&#39;,&#39;SK8-HI&#39;,&#39;&#39;,&#39;&#39;)">SK8-HI</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---21.html&#39;,&#39;OLD SKOOL&#39;,&#39;&#39;,&#39;&#39;)">OLD SKOOL</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---23.html&#39;,&#39;SLIP-ON&#39;,&#39;&#39;,&#39;&#39;)">SLIP-ON</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---22.html&#39;,&#39;ERA&#39;,&#39;&#39;,&#39;&#39;)">ERA</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---20.html&#39;,&#39;AUTHENTIC&#39;,&#39;&#39;,&#39;&#39;)">AUTHENTIC</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---53.html&#39;,&#39;经典系列&#39;,&#39;&#39;,&#39;&#39;)">经典系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---147.html&#39;,&#39;职业滑板系列&#39;,&#39;&#39;,&#39;&#39;)">职业滑板系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---145.html&#39;,&#39;冲浪系列&#39;,&#39;&#39;,&#39;&#39;)">冲浪系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---157.html&#39;,&#39;舒舒服服系列&#39;,&#39;&#39;,&#39;&#39;)">舒舒服服系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---149.html&#39;,&#39;VAULT系列&#39;,&#39;&#39;,&#39;&#39;)" class="last">VAULT系列</a>
+															</div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---91.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---91.html&#39;,&#39;服装&#39;,&#39;&#39;,&#39;&#39;)" title="">服装</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---138.html&#39;,&#39;卫衣&#39;,&#39;&#39;,&#39;&#39;)">卫衣</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---142.html&#39;,&#39;长裤&#39;,&#39;&#39;,&#39;&#39;)">长裤</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---139.html&#39;,&#39;棉服/夹克&#39;,&#39;&#39;,&#39;&#39;)">棉服/夹克</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---140.html&#39;,&#39;羽绒服/羽绒背心&#39;,&#39;&#39;,&#39;&#39;)">羽绒服/羽绒背心</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/jacketguide&#39;,&#39;夹克指南&#39;,&#39;&#39;,&#39;&#39;)">夹克指南</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---270.html&#39;,&#39;衬衫&#39;,&#39;&#39;,&#39;&#39;)">衬衫</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---137.html&#39;,&#39;T恤&#39;,&#39;&#39;,&#39;&#39;)">T恤</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---141.html&#39;,&#39;短裤/沙滩裤&#39;,&#39;&#39;,&#39;&#39;)" class="last">短裤/沙滩裤</a>
+															</div>
+													</li>
+											<li class="item-3">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---93.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---93.html&#39;,&#39;配件&#39;,&#39;&#39;,&#39;&#39;)" title="">配件</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---66.html&#39;,&#39;背包&#39;,&#39;&#39;,&#39;&#39;)">背包</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---143.html&#39;,&#39;腰带&#39;,&#39;&#39;,&#39;&#39;)">腰带</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---67.html&#39;,&#39;钱包&#39;,&#39;&#39;,&#39;&#39;)">钱包</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---64.html&#39;,&#39;袜子&#39;,&#39;&#39;,&#39;&#39;)">袜子</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---60.html&#39;,&#39;帽子&#39;,&#39;&#39;,&#39;&#39;)" class="last">帽子</a>
+															</div>
+													</li>
+										
+						<li class="last-img" style="width:349px;height:232px;text-align:right;">
+							<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/sk8_hi_cap_ho20&#39;,&#39;&#39;)"><img src="./passport-login_files/9282669951c455e140bb26ac153a30766283add9.jpg" alt=""></a>
+						</li>
+					
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---126.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---126.html&#39;,&#39;童鞋&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 童鞋</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---124.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---124.html&#39;,&#39;小童（0-3岁）&#39;,&#39;&#39;,&#39;&#39;)" title="">小童（0-3岁）</a></div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---125.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---125.html&#39;,&#39;中大童（4岁以上）&#39;,&#39;&#39;,&#39;&#39;)" title="">中大童（4岁以上）</a></div>
+													</li>
+										
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break"><a href="javascript:void(0);" data-href="https://vans.com.cn/skate_community" onclick="js_method(&#39;https://vans.com.cn/skate_community&#39;,&#39;滑板&#39;,&#39;&#39;,&#39;&#39;)">滑板</a></div>
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="https://vans.com.cn/customs.html" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;CUSTOMS定制鞋&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> CUSTOMS定制鞋</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/customs.html" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;CUSTOMS 专辑&#39;,&#39;&#39;,&#39;&#39;)" title="">CUSTOMS 专辑</a></div>
+														<div class="lv3">
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/customs_animal_print_pack_zebra_fa20&#39;,&#39;斑马纹自由定制&#39;,&#39;&#39;,&#39;&#39;)">斑马纹自由定制</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;《辛普森一家》假日限时图案&#39;,&#39;&#39;,&#39;&#39;)">《辛普森一家》假日限时图案</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/product/customs_animal_print_pack_fa20&#39;,&#39;豹纹图案定制系列&#39;,&#39;&#39;,&#39;&#39;)">豹纹图案定制系列</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;专为多种天气打造&#39;,&#39;&#39;,&#39;&#39;)">专为多种天气打造</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;ULTRARANGE EXO&#39;,&#39;&#39;,&#39;&#39;)">ULTRARANGE EXO</a>
+																	<a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/customs-image.html&#39;,&#39;CUSTOMS  定制图案合集&#39;,&#39;&#39;,&#39;&#39;)" class="last">CUSTOMS  定制图案合集</a>
+															</div>
+													</li>
+										
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>
+
+	<li class="item">	
+			<div class="lv1 vans-icon-break arr"><i></i><a href="javascript:void(0);" data-href="" onclick="js_method(&#39;&#39;,&#39;更多产品&#39;,&#39;&#39;,&#39;&#39;)"><i class="vans-icon-arr-b"></i> 更多产品</a></div>
+			
+			<div class="lv2box">
+				<div class="lv2List">
+					<ul>
+											<li class="item-1">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/product/classics/sk8hi/index.html" onclick="js_method(&#39;https://vans.com.cn/product/classics/sk8hi/index.html&#39;,&#39;CLASSICS  经典系列&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">CLASSICS  经典系列</a></div>
+													</li>
+											<li class="item-2">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/skate_community" onclick="js_method(&#39;https://vans.com.cn/skate_community&#39;,&#39;PRO SKATE 职业滑板系列&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">PRO SKATE 职业滑板系列</a></div>
+													</li>
+											<li class="item-3">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/vault" onclick="js_method(&#39;https://vans.com.cn/vault&#39;,&#39;VAULT BY VANS&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">VAULT BY VANS</a></div>
+													</li>
+											<li class="item-4">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/anaheim" onclick="js_method(&#39;https://vans.com.cn/anaheim&#39;,&#39;安纳海姆系列&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">安纳海姆系列</a></div>
+													</li>
+											<li class="item-5">
+							<div class="lv2"><a href="javascript:void(0);" data-href="https://vans.com.cn/gallery-index---0---303.html" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---303.html&#39;,&#39;雪靴系列&#39;,&#39;&#39;,&#39;_blank&#39;)" title="">雪靴系列</a></div>
+													</li>
+										
+					</ul>
+				</div>
+				<div class="men-bg"></div>
+			</div>	
+			
+	</li>
+
+<script>
+function js_method(url,obj,el='',target='')
+{
+	ga('send', 'event', 'outbound', 'click', obj);
+	
+	// if(url.indexOf("?utm_source") != -1)//如果带了参数了拿掉直接带上ga参数
+	// {
+	// 	url = url.substring(0,url.indexOf("?utm_source"));
+	// }
+	//url = url + '?utm_source=pc_homepage&utm_medium=pc_'+ obj +'&utm_campaign=ownsite';
+	if(target== '_blank')
+	{
+		window.open(url);
+	}
+	else
+	{
+		window.location.href=url;
+	}
+}
+</script>                </ul>              
+            </div>               
+        </div>
+    </div>
+    <div id="cur_bg" style="height: 138px;"></div>
+    <div class="hdbg clear" id="hd_bg">
+        <div class="maxArticle "> 
+  
+
+ <ul class="news-list maxContent clearfix">
+	<li class="article-index lv-1 item" style="font-size: .9rem"><a href="https://vans.com.cn/article-annoucement-5009.html" title="部分地区 &amp; 定制鞋发货公告">部分地区 &amp; 定制鞋发货公告</a></li></ul>
+
+
+   </div>
+    </div>
+</header>
+
+
+
+<div class="main">
+
+ <div class="signin-page-wrap clearfix" ;"="">
+  <div id="page_signin" class="signupin-content signin">
+  <div class="sign-title">
+    <h2 login-tap="account" class="login_tap active">用户名登录</h2>
+    <h2 login-tap="mobile" class="login_tap">手机快捷登录</h2>
+  </div>
+
+  <form action="https://vans.com.cn/passport-post_login.html" method="post">
+  <ul>
+    <li class="form-item">
+            <label for="" class="form-label">登录帐号：</label><span class="form-act"><input class="x-input action-account-check" type="text" name="uname" id="dom_el_2722910" value="" placeholder="手机号/用户名" vtype="required" data-caution="请填写手机号/用户名" autofocus="autofocus"></span>
+          </li>
+    <li class="form-item account-login">
+      <label for="" class="form-label">密码：</label><span class="form-act"><input class="x-input" type="password" name="password" id="account_pwd" placeholder="登录密码" vtype="required" data-caution="请填写密码" oncontextmenu="return false;" onpaste="return false;"></span>
+    </li>
+    <li class="form-item action-verifycode hide">
+      <label for="" class="form-label">验证码：</label>
+      <span class="form-act">
+        <input class="x-input verify-input login-verify-code" type="text" name="verifycode" placeholder="填写验证码" data-caution="请正确填写验证码" id="dom_el_2722911" maxlength="4" autocomplete="off" vtype="required&amp;&amp;alphaint"> <img src="./passport-login_files/index-gen_vcode-b2c-4.html" alt="验证码" title="点击更换验证码" class="verify-code auto-change-verify-handle"> <a href="./passport-login_files/index-gen_vcode-b2c-4.html" class="verify-code auto-change-verify-handle">看不清楚?换一个</a>      </span>
+    </li>
+    <li class="form-item mobile-login" style="display:none;">
+      <label for="" class="form-label">登录验证码：</label>
+      <span class="form-act">
+        <input class="x-input verify-input" type="text" name="loginMobileVcode" id="mobile_pwd" placeholder="填写验证码"> <a href="https://vans.com.cn/passport-send_login_sms.html" class="btn btn-caution action-get-logincode"><span><span>获取短信验证码</span></span></a>
+      </span>
+    </li>
+    <li class="form-item action-need-verify" style="display:none;">
+      <label for="" class="form-label">验证码：</label>
+      <span class="form-act">
+        <input class="x-input verify-input" type="text" name="mobileVcode" id="dom_el_2722912" placeholder="填写验证码"> <a href="https://vans.com.cn/passport-send_vcode_sms.html" class="btn btn-caution action-get-verifycode"><span><span>获取短信验证码</span></span></a>
+      </span>
+    </li>
+    <li class="form-item oh">
+      <label for="" class="form-label"></label>
+      <!-- <span class="form-act fl click cur">
+        <span class="ipt">
+          <input type="checkbox" name="is_remember" id="for_remember" class="x-check action-remember-account" checked="checked">
+        </span>      
+        <label for="for_remember" class="form-sub-label">下次自动登录</label> -->
+        <!--  <input type="checkbox" name="site_autologin" id="for_auto_signin" class="x-check action-auto-signin">
+        <label for="for_auto_signin" class="form-sub-label">两周内自动登录</label> -->         
+      <!-- </span> -->
+      <a href="https://vans.com.cn/passport-lost.html" class="fr">忘记密码？</a>
+    </li>
+    <li class="form-item-normal">
+      <label for="" class="form-label"></label>
+      <span class="form-act fl">
+        <button type="submit" class="btn btn-major btn-big" rel="_request"><span><span>立即登录</span></span></button>             
+      </span>
+      <a href="https://vans.com.cn/passport-signup.html?redirecturl=" class="btn-passport fr"><span>注册</span></a>
+    </li>
+  </ul>
+</form>
+  <div id="trust_signin" class="trust-signin">
+	<span>使用其他方法登录：</span>
+        <a href="https://open.weixin.qq.com/connect/qrconnect?appid=wx5a8a2252c2ffc503&amp;response_type=code&amp;scope=snsapi_login&amp;redirect_uri=https%3A%2F%2Fvans.com.cn%2Fopenapi%2Ftrustlogin_api%2Fparse%2Ftrustlogin_plugin_weixin%2Fcallback%2F&amp;state=db6f12a72cfb7baa1293bcb24023f6eb" class="bg-1"><img src="./passport-login_files/weixin.png" width="37px" height="37px"></a>
+        <a href="https://api.weibo.com/oauth2/authorize?client_id=3312088635&amp;redirect_uri=https%3A%2F%2Fvans.com.cn%2Fopenapi%2Ftrustlogin_api%2Fparse%2Ftrustlogin_plugin_weibo%2Fcallback%2F&amp;state=ab88b997f4664f37bddeb260bb47ded7" class="bg-2"><img src="./passport-login_files/weibo.png" width="37px" height="37px"></a>
+        <a href="https://graph.qq.com/oauth2.0/authorize?response_type=code&amp;client_id=101375061&amp;redirect_uri=https%3A%2F%2Fvans.com.cn%2Fopenapi%2Ftrustlogin_api%2Fparse%2Ftrustlogin_plugin_qq%2Fcallback&amp;state=bc4490bd455e4a8aa17f0fd021796d25" class="bg-3"><img src="./passport-login_files/qqlogin.png" width="37px" height="37px"></a>
+        <a href="https://oauth.taobao.com/authorize?client_id=23584828&amp;redirect_uri=https%3A%2F%2Fvans.com.cn%2Fopenapi%2Ftrustlogin_api%2Fparse%2Ftrustlogin_plugin_taobao%2Fcallback%2F&amp;state=94d04b9131844d527a578e9b65432585&amp;response_type=code" class="bg-4 hide"><img src="./passport-login_files/taobao.png" width="37px" height="37px"></a>
+        <a href="https://ecopen.shopex.cn/transfer/alipayquick/authorize?appid=1979313536" class="bg-4"></a>
+  </div>
+  </div>
+<script type="text/javascript">
+// 统计 => 登录
+$$('.btn-major').addEvent('click',function() {
+  digitalData.event = 'newLogin';
+})
+// 判断是否登录
+var isLoggedIn = false;
+new Request({
+    url: '/passport-ajax_check_login.html',
+    onComplete: function(rs) {
+        rs = JSON.parse(rs);
+        if (rs.status == true) {
+            isLoggedIn = true;
+        }
+    }
+}).post();
+
+// 会员id
+var customerID = Cookie.read('S[MEMBER]')?Cookie.read('S[MEMBER]'):'';
+
+digitalData = {
+    core: {
+        language: 'en',
+        //language of content on page
+        currencyCode: 'sgd'
+        //currency user is shopping in
+    },
+    page: {
+        pageName: 'member-signin',
+        //friendly name of page
+        pageType: 'member-signin',
+        breadcrumb: 'member-signin'
+        //separate by a forward-slash
+    },
+    visitor: {
+        customerID: customerID,
+        //include ID of customer;
+        //no PII; undefined if not logged in
+        isRewardsMember: true,
+        //or undefined if not applicable
+        isLoggedIn: isLoggedIn
+        //or false }
+    }
+};
+</script><script>
+Module = new Module('page', ['signin']);
+var modname = 'page.signin';
+var showVcode = 0;
+$$('.login_tap').addEvent('click',function(){
+    $$('.login_tap').removeClass('active');
+    this.addClass('active');
+    if(this.get('login-tap') == 'account'){
+      $$('.account-login').setStyle('display','');
+      $$('.mobile-login').setStyle('display','none');
+      $$('.action-verifycode').setStyle('display','none');
+      $('account_pwd').set('vtype','required');
+      $('mobile_pwd').set('vtype','');
+    }else{
+      $$('.account-login').setStyle('display','none');
+      $$('.action-verifycode').setStyle('display','');
+      if($$('.action-verifycode').hasClass('hide')){
+        $$('.action-verifycode').removeClass('hide');
+      }
+      $$('.mobile-login').setStyle('display','');
+      $('account_pwd').set('vtype','');
+      $('mobile_pwd').set('vtype','required');
+    }
+});
+</script>
+  </div>
+<script>
+var Query = {
+    send: function(url, element, data, fn){
+        new Request({
+            url: url,
+            link: 'cancel',
+            onSuccess: function(rs) {
+                var tips = element.retrieve('tips_instance', new formTips({
+                    target: element,
+                    where: 'after',
+                    single: true,
+                    store: true,
+                    autohide: false,
+                    destroy: true
+                })).hide();
+                if(rs) {
+                    try{
+                        rs = JSON.decode(rs);
+                    } catch (e) {}
+                    if(rs.error) {
+                        if(typeof rs.error === 'string') tips.show(rs.error, {type: 'error'});
+                    }
+                    else {
+                        if(typeof rs.success === 'string') tips.show(rs.success, {type: 'success',autohide:3});
+                    }
+                    fn&&fn.call(this, rs);
+                }
+            }
+        }).post(data);
+    }
+};
+function redirect(url) {
+    if(url) top.location.href = url;
+}
+function sendVerify(el, data) {
+    var url = el.href;
+    var textCont = el.getElement('span span');
+    el.addClass('disabled');
+    textCont.innerHTML = el.get('text') + '(<i>0</i>)';
+    var cd = new countdown(textCont.getElement('i'), {
+        start: 120,
+        secondOnly: true,
+        callback: function(e) {
+            el.removeClass('disabled');
+            textCont.innerHTML = '重发验证码';
+        }
+    });
+    Query.send(url, el, data, function(rs) {
+        if(rs.error) {
+            cd.stop();
+            el.removeClass('disabled');
+            textCont.innerHTML = '重发验证码';
+        }
+    });
+}
+
+Module.get(modname).getElement('button[type=submit]').store('_ajax_config', {
+    progress:function(rs){
+        if(rs.error) {
+            if (showVcode || rs.data && rs.data.needVcode) {
+                Module.element(modname, '.action-verifycode').removeClass('hide');
+                // changeCode(Module.element(modname, 'img.auto-change-verify-handle'));
+            }
+            return top.Message.error(rs.error,function(){
+                redirect(rs.redirect);
+            });
+        }
+        if(rs.success) return top.Message.success(rs.success + '<br><b>系统即将跳转到登录前页面</b>', function(){
+            redirect(rs.redirect);
+        });
+        redirect(rs.redirect);
+    }
+});
+
+Module.get(modname).addEvents({
+    'change:relay(.action-account-check)': function(e) {
+        if(validatorMap.mobile[1](this, this.value)) {
+            Query.send('/passport-login_ajax_account.html', this, this.name + '=' + this.value, function(rs){
+                if(rs.needVerify === 'true') {
+                    Module.element(modname, '.action-need-verify').style.display = '';
+                    if(showVcode) {
+                        Module.element(modname, '.action-verifycode').style.display = 'none';
+                    }
+                }
+            });
+        }
+        else {
+            Module.element(modname, '.action-need-verify').style.display = 'none';
+            if(showVcode) {
+                Module.element(modname, '.action-verifycode').style.display = '';
+            }
+        }
+    },
+    'click:relay(.action-get-verifycode)': function(e) {
+        e.preventDefault();
+        var el = Module.element(modname, '.action-account-check');
+        if(this.hasClass('disabled')) return false;
+        sendVerify(this, el.name + '=' + el.value + '&type=activation');
+    },
+    'click:relay(.action-get-logincode)': function(e) {
+        e.preventDefault();
+        var el = Module.element(modname, '.action-account-check');
+        var lv = Module.element(modname, '.login-verify-code');
+        if(this.hasClass('disabled')) return false;
+        sendVerify(this, el.name + '=' + el.value + '&type=activation' + '&sms_vcode=' + lv.value);
+    },
+    'click:relay(.click)': function(e){
+        if($('for_remember').checked == true){
+            this.addClass('cur');           
+        }else{
+            this.removeClass('cur');          
+        }
+    }
+});
+
+
+</script>
+
+</div>
+<script>
+                    var userAgentInfo = navigator.userAgent;
+                    var Agents = ["Android", "iPhone","SymbianOS", "Windows Phone","iPad", "iPod"];
+                    var w_url = window.location.pathname;
+                        for (var v = 0; v < Agents.length; v++) {
+                            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                                window.location.href='/wap' + w_url;
+                                break;
+                            }
+                    }
+                </script>
+<div class="clear">
+</div>
+    
+    <div class="maxFooter">
+        <div class="footer">
+            <div class="foot-l fl">  
+                <div class="title"><div class="AdvBanner">
+
+	<span style="font-weight: bold;font-size:18px;">获取帮助</span>
+
+</div>
+</div>
+                <div class="article">
+                    <dl class="shopmax-keys"><dt class="maxTitle"> 
+购物</dt><dd> <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---36.html&#39;,&#39;男子&#39;)" class=" item-1">男子</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---37.html&#39;,&#39;女子&#39;)" class=" item-2">女子</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/customs.html&#39;,&#39;CUSTOMS&#39;)" class=" item-3">CUSTOMS</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/vault&#39;,&#39;Vault by Vans&#39;)" class=" item-4">Vault by Vans</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/gallery-index---0---83.html&#39;,&#39;职业鞋款&#39;)" class=" item-5">职业鞋款</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/exshop-search.html&#39;,&#39;查找店铺&#39;)" class=" item-6">查找店铺</a> </dd></dl>
+<script>
+// function js_method(url,obj)
+// {
+// 	ga('send', 'event', 'outbound', 'click', obj);
+// 	window.location.href=url;
+// }
+</script><dl class="shopmax-keys"><dt class="maxTitle"> 
+公司</dt><dd> <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/article-gongsi-1471.html&#39;,&#39;客户服务&#39;)" class=" item-1">客户服务</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/article-gongsi-1472.html&#39;,&#39;使用条款&#39;)" class=" item-2">使用条款</a>  <a href="javascript:void(0);" onclick="js_method(&#39;https://vans.com.cn/article-gongsi-1473.html&#39;,&#39;隐私政策&#39;)" class=" item-3">隐私政策</a>  <a href="javascript:void(0);" onclick="js_method(&#39;http://www.vans.com/sustainability.html&#39;,&#39;可持续发展&#39;)" class=" item-4">可持续发展</a> </dd></dl>
+<script>
+// function js_method(url,obj)
+// {
+// 	ga('send', 'event', 'outbound', 'click', obj);
+// 	window.location.href=url;
+// }
+</script>                </div>                                    
+            </div>
+            <div class="foot-c fl">           
+                <dl class="shopmax-keys"><dt class="maxTitle"> <a href="javascript:void(0);" onclick="js_method(&#39;javascript:;&#39;,&#39;联系我们&#39;)">联系我们</a> </dt><dd> <a href="javascript:void(0);" onclick="js_method(&#39;javascript:;&#39;,&#39;电子邮件&#39;)" class=" item-1">电子邮件</a>  <a href="javascript:void(0);" onclick="js_method(&#39;mailto:contactus@vans.com.cn&#39;,&#39;contactus@vans.com.cn&#39;)" class=" item-2">contactus@vans.com.cn</a>  <a href="javascript:void(0);" onclick="js_method(&#39;javascript:;&#39;,&#39;地址&#39;)" class=" item-3">地址</a>  <a href="javascript:void(0);" onclick="js_method(&#39;javascript:;&#39;,&#39;中国上海市南京西路688号8楼&#39;)" class=" item-4">中国上海市南京西路688号8楼</a> </dd></dl>
+<script>
+// function js_method(url,obj)
+// {
+// 	ga('send', 'event', 'outbound', 'click', obj);
+// 	window.location.href=url;
+// }
+</script>             
+            </div>
+            <div class="foot-r fr">           
+                <div id="basic_mail_421" class="basic-mail">
+	<!-- <h3>订阅</h3>
+	<form name="mailsub" method='post' action="/mailsub-add.html">
+		<span class="text">订阅以获取最新资讯</span>
+		<span class="input">
+			<input type="text" class="email-box" name="email" vtype="email&&required" placeholder="电子邮件" />
+	        <button type="submit" class="email-btn" rel="_request"></button>
+		</span>
+	            
+	</form> -->
+	<div class="SureLook">
+		<h3>在这些地方找到我们</h3>
+        <ul class="clearfix">
+            <li class="social-share item-1 first icon-weichat-squre-active-30" data-share_type="WeChat">
+                <a href="javascript:void(0);" target="_blank" title="微信" class="path2"></a>
+            </li>
+            <li class="social-share item-7 second " data-share_type="miniapp" style="">
+                <a href="javascript:void(0);" target="_blank" title="小程序" class="miniapphover2" style="width: 36px;height: 36px;"></a>
+            </li>
+            <li class="social-share item-2 icon-weibo-square-30" data-share_type="Sina micro-blog">
+                <a href="http://weibo.com/Vanschina" target="_blank" title="新浪微博" class="path2"></a>
+            </li>
+           <!--  <li class="social-share item-4 icon-nice-square-inactive-40" data-share_type="oneniceapp">
+                <a href="http://m.oneniceapp.com/tag/exists/i8MINv?uid=Rtj9n8&nfrom=wechat_contact&act=share_tag&app_version=3.9.7"
+                   target="_blank" title="nice" class="path2"></a>
+            </li> -->
+            <li class="social-share item-5" data-share_type="Tencent Video">
+                <a href="http://v.qq.com/vplus/e12000fa39622040bafef9e42a504593" target="_blank" title="腾讯视频专区" class="path2"></a>
+            </li>
+            <li class="social-share item-6 last" data-share_type="instagram">
+                <a href="https://www.instagram.com/vans_cn/" target="_blank" title="instagram" class="path2"></a>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    //adobe 统计  start
+    $$('.social-share').addEvent('click', function () {
+        digitalData.eventData = {
+           socialShareService:this.get('data-share_type')
+            //name of the social site
+        };
+        digitalData.event = 'socialShareClick';
+    });
+    //adobe 统计  end
+</script>
+             
+            </div>
+        </div>  
+        <div class="F-buttom">
+            <div class="b-logo">
+                  
+            </div>
+            <div class="b-l">
+                <div class="b-text">
+                    <p><a href="https://beian.miit.gov.cn/" type="url"><font size="3" face="Arial">苏ICP备13010219号</font></a><font size="3">&nbsp;<a><font color="#589BC6">工信部网站</font></a></font></p>
+ <p><font size="3" color="#589BC6">威富服饰（中国）有限公司</font></p> 
+                </div>
+                <div class="b-Country">
+                     
+
+
+<div class="country">
+   
+	   <div class="title">
+			<span>中国</span>
+			<!-- <img src="https://img1.vans.com.cn/public/images/94/63/f5/f0c11e835d6a8045911d5ec88ce06842eef4a544.png?1566359531#h" alt="中国"  /> -->
+	   </div>
+   
+   <div class="country-list">
+	   <ul class="clearfix">
+		 		   <li class="item-1 first" data-adid="1566359636212">
+		   			   <a href="https://vans.com.cn/" target="_blank">
+				   						<span>中国</span>
+				   				   <!-- <img src="" alt="中国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-2" data-adid="1566358247702">
+		   			   <a href="http://www.vans.com.hk/" target="_blank">
+				   						<span>香港特别行政区（繁体中文）</span>
+				   				   <!-- <img src="" alt="香港特别行政区（繁体中文）"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-3" data-adid="1566358299472">
+		   			   <a href="http://www.vans.com.hk/en/" target="_blank">
+				   						<span>香港特别行政区（英文）</span>
+				   				   <!-- <img src="" alt="香港特别行政区（英文）"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-4" data-adid="1566358313996">
+		   			   <a href="http://www.vansargentina.com/" target="_blank">
+				   						<span>阿根廷</span>
+				   				   <!-- <img src="" alt="阿根廷"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-5" data-adid="1566358327249">
+		   			   <a href="https://www.vans.ie/" target="_blank">
+				   						<span>爱尔兰</span>
+				   				   <!-- <img src="" alt="爱尔兰"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-6" data-adid="1566358341221">
+		   			   <a href="https://www.vans.at/" target="_blank">
+				   						<span>奥地利</span>
+				   				   <!-- <img src="" alt="奥地利"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-7" data-adid="1566358364701">
+		   			   <a href="http://www.vans.net.au/" target="_blank">
+				   						<span>澳大利亚</span>
+				   				   <!-- <img src="" alt="澳大利亚"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-8" data-adid="1566358375309">
+		   			   <a href="https://www.vans.com.br/" target="_blank">
+				   						<span>巴西</span>
+				   				   <!-- <img src="" alt="巴西"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-9" data-adid="1566358387707">
+		   			   <a href="https://www.vans.eu/" target="_blank">
+				   						<span>波兰</span>
+				   				   <!-- <img src="" alt="波兰"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-10" data-adid="1566358399599">
+		   			   <a href="https://www.vans.de/" target="_blank">
+				   						<span>德国</span>
+				   				   <!-- <img src="" alt="德国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-11" data-adid="1566358412604">
+		   			   <a href="http://vans.ru/" target="_blank">
+				   						<span>俄罗斯</span>
+				   				   <!-- <img src="" alt="俄罗斯"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-12" data-adid="1566358425619">
+		   			   <a href="https://www.vans.fr/" target="_blank">
+				   						<span>法国</span>
+				   				   <!-- <img src="" alt="法国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-13" data-adid="1566358446927">
+		   			   <a href="http://www.vans.co.kr/" target="_blank">
+				   						<span>韩国</span>
+				   				   <!-- <img src="" alt="韩国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-14" data-adid="1566358461395">
+		   			   <a href="https://www.vans.nl/" target="_blank">
+				   						<span>荷兰</span>
+				   				   <!-- <img src="" alt="荷兰"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-15" data-adid="1566358472746">
+		   			   <a href="https://www.vans.ca/fr_ca/homepage.html" target="_blank">
+				   						<span>加拿大（法语）</span>
+				   				   <!-- <img src="" alt="加拿大（法语）"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-16" data-adid="1566358484086">
+		   			   <a href="https://www.vans.ca/en_ca/homepage.html" target="_blank">
+				   						<span>加拿大（英语）</span>
+				   				   <!-- <img src="" alt="加拿大（英语）"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-17" data-adid="1566358494784">
+		   			   <a href="http://www.vans.com.my/" target="_blank">
+				   						<span>马来西亚</span>
+				   				   <!-- <img src="" alt="马来西亚"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-18" data-adid="1566358504584">
+		   			   <a href="https://www.vans.com/shop.html" target="_blank">
+				   						<span>美国</span>
+				   				   <!-- <img src="" alt="美国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-19" data-adid="1566358514744">
+		   			   <a href="https://www.vans.mx/es_mx/homepage.html" target="_blank">
+				   						<span>墨西哥（西班牙语）</span>
+				   				   <!-- <img src="" alt="墨西哥（西班牙语）"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-20" data-adid="1566358531821">
+		   			   <a href="https://www.vans.pt/" target="_blank">
+				   						<span>葡萄牙</span>
+				   				   <!-- <img src="" alt="葡萄牙"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-21" data-adid="1566358541541">
+		   			   <a href="http://www.vansjapan.com/" target="_blank">
+				   						<span>日本</span>
+				   				   <!-- <img src="" alt="日本"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-22" data-adid="1566358550767">
+		   			   <a href="http://www.vans.se/" target="_blank">
+				   						<span>瑞典</span>
+				   				   <!-- <img src="" alt="瑞典"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-23" data-adid="1566358560791">
+		   			   <a href="https://www.vans.eu/" target="_blank">
+				   						<span>瑞士</span>
+				   				   <!-- <img src="" alt="瑞士"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-24" data-adid="1566358572063">
+		   			   <a href="https://www.vans.eu/" target="_blank">
+				   						<span>土耳其</span>
+				   				   <!-- <img src="" alt="土耳其"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-25" data-adid="1566358582807">
+		   			   <a href="https://www.vans.es/" target="_blank">
+				   						<span>西班牙</span>
+				   				   <!-- <img src="" alt="西班牙"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-26" data-adid="1566358594957">
+		   			   <a href="http://www.vans.com.sg/" target="_blank">
+				   						<span>新加坡</span>
+				   				   <!-- <img src="" alt="新加坡"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-27" data-adid="1566358604621">
+		   			   <a href="http://www.vans.com.sg/" target="_blank">
+				   						<span>新西兰</span>
+				   				   <!-- <img src="" alt="新西兰"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-28" data-adid="1566358614600">
+		   			   <a href="https://www.vans.eu/" target="_blank">
+				   						<span>以色列</span>
+				   				   <!-- <img src="" alt="以色列"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-29" data-adid="1566358631823">
+		   			   <a href="http://www.vans.it/" target="_blank">
+				   						<span>意大利</span>
+				   				   <!-- <img src="" alt="意大利"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-30" data-adid="1566358737587">
+		   			   <a href="http://www.vans.co.in/" target="_blank">
+				   						<span>印度</span>
+				   				   <!-- <img src="" alt="印度"/> -->
+			   </a>
+			   
+		   		   </li>
+		 		   <li class="item-31 last" data-adid="1566358754082">
+		   			   <a href="https://www.vans.co.uk/" target="_blank">
+				   						<span>英国</span>
+				   				   <!-- <img src="" alt="英国"/> -->
+			   </a>
+			   
+		   		   </li>
+		 	   </ul>
+   </div>
+</div>
+
+  
+                </div>
+            </div>
+        </div> 
+    </div> 
+    <!-- <div class="right-fix3">
+        <a href="javascript:front_get_coupon(291)"> </a>
+    </div>-->
+    <!-- <div class="right-fix2">
+        <a href="https://vans.com.cn/product/core_classics_sp21"> </a>
+    </div>  -->
+    <div class="right-fix">
+        <!-- <a href="http://chat8.live800.com/live800/chatClient/chatbox.jsp?companyID=772724&configID=150737&jid=9415958668" target="blank" title="客服"></a> -->
+        <a href="https://care60.live800.com/live800/chatClient/chatbox.jsp?companyID=80000704&amp;configID=381" target="blank" title="客服"></a>
+    </div>
+    <div id="footer_bg" style="display: none;"></div>
+    <div id="footer_qr" style="display: none;">
+         
+<div class="ad-pic" id="ad_pic_427">
+<img src="./passport-login_files/25848e8c032dda3f22305a138d31fdaf4313d008.jpg" alt="扫一扫Vans微信号：VansChina&lt;br/&gt;率先了解产品、滑板、艺术、音乐及街头文化等活动的最新消息！" width="215">
+<span>扫一扫Vans微信号：VansChina<br>率先了解产品、滑板、艺术、音乐及街头文化等活动的最新消息！</span>
+</div>
+
+ 
+    </div>
+    <div id="footer_qr2" style="display: none;">
+         
+<div class="ad-pic" id="ad_pic_811">
+<img src="./passport-login_files/2b8fc6e253d4c3a4ea673dfa136845cc411a97cb.png" alt="扫一扫关注Vans小程序&lt;br&gt;率先了解Vans尖货、滑板、艺术、音乐及街头文化等活动的最新消息！" width="215">
+<span>扫一扫关注Vans小程序<br>率先了解Vans尖货、滑板、艺术、音乐及街头文化等活动的最新消息！</span>
+</div>
+
+ 
+    </div>
+	 <a href="https://vans.com.cn/" class="right-survey-show-btn"></a>
+    <div id="gotop" style=""></div>
+    <a class="problem" href="https://vans.com.cn/article-gongsi-1471.html"></a>
+    <div class="fbody">
+        <div class="maxCopyright" style="display:none"></div>
+        <script>
+var Shop = window['Shop'] || {"url":{"shipping":"\/cart-shipping.html","total":"\/cart-total.html","region":"\/tools-selRegion.html","payment":"\/cart-payment.html","purchase_shipping":"\/cart-purchase_shipping.html","purchase_def_addr":"\/cart-purchase_def_addr.html","purchase_payment":"\/cart-purchase_payment.html","get_default_info":"\/cart-get_default_info.html","diff":"\/product-diff.html","fav_url":"\/member-ajax_fav.html","datepicker":"https:\/\/img3.vans.com.cn\/public\/app\/site\/statics\/js_mini","placeholder":"https:\/\/img2.vans.com.cn\/public\/app\/b2c\/statics\/images\/imglazyload.gif"},"base_url":"\/"};
+window.addEvent('domready',function(){
+    var __time_out = 1000;
+    if (Shop.set != undefined&&Shop.set.refer_timeout) __time_out = Shop.set.refer_timeout;
+    var ReferObj ={};
+    Object.append(ReferObj,{
+        serverTime:1611229124,
+        init:function(){
+            var FIRST_REFER=Memory.get('FIRST_REFER');
+            var NOW_REFER=Memory.get('NOW_REFER');
+            var nowDate=this.time=this.serverTime*1000;
+            if(!window.location.href.test('#r-')&&!document.referrer||document.referrer.test(document.domain))return;
+            if(window.location.href.test('#r-')) Memory.clean('n');
+            if(!FIRST_REFER){
+
+                if(NOW_REFER){
+                    Memory.set('FIRST_REFER',NOW_REFER,this.getTimeOut(JSON.decode(NOW_REFER).DATE));
+                }else{
+                    this.setRefer('FIRST_REFER',__time_out);
+                }
+            }
+            this.setRefer('NOW_REFER',__time_out);
+            this.createGUID();
+        },
+        getUid:function(){
+            var lf=window.location.href,pos=lf.indexOf('#r-');
+            return pos!=-1?lf.substr(pos+4):'';
+        },
+        getRefer:function(){
+            return document.referrer?document.referrer:'';
+        },
+        setRefer:function(referName,timeout){
+            var uid=this.getUid(),referrer=this.getRefer();
+            var data={'ID':uid,'REFER':referrer,'DATE':this.time};
+
+            if('NOW_REFER'==referName){
+                var refer=JSON.decode(Memory.get('FIRST_REFER'));
+                if(uid!=''&&refer&&refer.ID==''){
+                    var fdata={'ID':uid,'REFER':refer.REFER,'DATE':refer.DATE};
+                    Memory.set('FIRST_REFER',JSON.encode(fdata),this.getTimeOut(refer.DATE));
+                }else if(uid==''){
+                    Object.append(data,{'ID':refer.ID});
+                }
+            }
+            Memory.set(referName,JSON.encode(data),__time_out||15);
+        },
+        getTimeOut:function(nowDate){
+            var timeout=nowDate+__time_out*24*3600*1000;
+            var date=new Date(timeout);
+            return date;
+        },
+        createGUID:function(){
+            var GUID = (function(){
+                var S4=function(){
+                    return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+                };
+                return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4()).toUpperCase();
+            })();
+            Memory.set('n',GUID,3650);
+        }
+    });
+    ReferObj.init();
+});
+
+
+miniCart = {
+    'show':function(target){
+        target = $(target);
+        if (!target) return;
+
+        if(this.dialog){
+            this.hide();
+        }
+
+        var options = {
+                body: 'popup-body',
+                header: 'popup-header',
+                close: 'popup-btn-close',
+                content:'popup-content',
+                title:'正在加入购物车',
+                main:'<div class="loading">loading...</div>'
+            }, dialog = this.dialog = new Element('div#mini_cart_dialog.popup-container.mini-cart-dialog',{
+                'html': $('popup_template').get('html').substitute(options),
+                styles:{
+                    display:'block',
+                    zIndex: maxZindex('div', 1)
+                }
+            }).inject(document.body);
+
+        this.title = dialog.getElement('.popup-header h2');
+        this.close = dialog.getElements('.popup-btn-close');
+        this.content = dialog.getElement('.popup-content');
+        this.dialog.addEvent('click:relay(.popup-btn-close)',this.hide.bind(this));
+
+        var setSize = this.setSize = function(){
+            if(!dialog.isDisplayed()) return;
+            dialog.setStyles({
+                top:target.getPosition().y+target.getSize().y,
+                left:target.getPosition().x.limit(0,window.getSize().x-dialog.getSize().x) + window.getScroll().x
+            });
+        };
+
+        setSize();
+        window.addEvent('resize',setSize);
+    },
+    'hide':function(){
+        try{
+            this.dialog.destroy();
+            window.removeEvent('resize',this.setSize);
+        }catch(e){}
+    },
+    'load':function(options){
+        options = options || {};
+        options = Object.merge({
+            method: 'post',
+            onRequest: function(){
+                miniCart.show(options.target);
+            },
+            onSuccess: function(re){
+                if(re) {
+                    this.title.innerHTML = '提醒';
+                    this.content.innerHTML = re;
+                }
+
+                updateCartInfo();
+                
+                if(document.getElement('.minicart_box')&&document.getElement('.minicart_box').get('show_gallery')){
+                    document.getElement('.minicart_box').fireEvent('_show'); //迷你购物车
+                }
+                options.callback && options.callback(re);
+            }.bind(this),
+            onFailure: function(xhr){
+                if(xhr.status == 429)
+                    {
+                        //alert('活动太火爆，请稍后再试！');
+                        location.href = '/pending.html';
+                    }
+                    else
+                    {
+                        this.title.innerHTML = '提醒';
+                        this.content.innerHTML = '<div class="minicart-error"><p align="center">加入购物车失败。<br />可能库存不足或提交信息不完整。</p></div>';
+                    }
+            }.bind(this)
+        },options||{});
+        if(!options.url) return false;
+
+        new Request(options).send(options.data ? options.data.toQueryString() + '&mini_cart=true' : 'mini_cart=true');
+    },
+    init:function(target, url, data){
+        var linktocart;
+        if(typeOf(target) == 'element') linktocart = target.getElements('[target=_dialog_minicart]');
+        else if(typeOf(target) == 'elements') linktocart = target;
+        else linktocart = $$('a[target=_dialog_minicart], button[target=_dialog_minicart]');
+        if(linktocart.length){
+            linktocart.addEvent('click',function(e){
+                e.preventDefault();
+                miniCart.load({url: url || this.href, data: data || this.getParent('.goods-item') || this.getParent('li'), target: this});
+            });
+        }
+    }
+};
+
+formToCart = function(container,target) {
+    container = $(container || document.body);
+    target = target || '.action-addtocart';
+    if(!container) return;
+
+    var formtocart = container.getElement('form[target=_dialog_minicart]') || container.getFirst().getParent('form[target=_dialog_minicart]');
+    if(formtocart) {
+        formtocart.addEvent('submit', function(e){
+            e.stop();
+            target = this.getElement(target) || this.getElement('*[type=submit]');
+            miniCart.load({
+                url:this.action,
+                method:this.method,
+                data:this,
+                target: target,
+                callback: function() {
+                    target.removeClass('disabled');
+                }.bind(this)
+            });
+        });
+    };
+}
+
+window.addEvent('domready',function(){
+    miniCart.init();
+    formToCart();
+});
+</script>
+
+<script id="popup_template" type="text/template">
+  <div class="{body}">
+     <div class="{header} clearfix">
+        <h2>{title}</h2>
+        <span><button style="top:15px; right:15px;" type="button" title="关闭" class="{close}" hidefocus><i>×</i></button></span>
+    </div>
+    <div class="{content} clearfix">{main}</div>
+  </div>
+</script>
+<script id="message_template" type="text/template">
+  <div class="{body} clearfix">
+    <div class="icon">{icon}</div>
+    <div class="{content}">{main}</div>
+  </div>
+</script>
+<script id="dropmenu_template" type="text/template">
+  <div class="{body}">
+    <div class="{content} clearfix">{main}</div>
+  </div>
+</script>
+
+
+<script>
+function front_get_coupon(cpns_id){
+    new Request({
+        url:'/cart-coupon_receive.html',
+        data: 'cpns_id='+cpns_id+"&response_json=true",        
+        onComplete:function(rs) {
+            obj = JSON.decode(rs);
+            //console.log(obj);
+            if (obj.status == 'success'){
+                Message.success(obj.msg);
+            }else if (obj.msg){
+                Message.error(obj.msg);
+            }
+            if (obj.url){
+                setTimeout("front_go_url('"+obj.url+"')", 1000);
+            }
+        }
+    }).post();
+}
+
+function front_go_url(url){
+    location.href = url;
+}
+</script>
+
+<script>
+    function strip_tags (input, allowed) {
+
+        // making sure the allowed arg is a string containing only tags in lowercase (<a><b><c>)
+        allowed = (((allowed || '') + '').toLowerCase().match(/<[a-z][a-z0-9]*>/g) || []).join('')
+
+        var tags = /<\/?([a-z][a-z0-9]*)\b[^>]*>/gi
+        var commentsAndPhpTags = /<!--[\s\S]*?-->|<\?(?:php)?[\s\S]*?\?>/gi
+
+        var after = _phpCastString(input)
+        // recursively remove tags to ensure that the returned string doesn't contain forbidden tags after previous passes (e.g. '<<bait/>switch/>')
+        while (true) {
+            var before = after
+            after = before.replace(commentsAndPhpTags, '').replace(tags, function ($0, $1) {
+                return allowed.indexOf('<' + $1.toLowerCase() + '>') > -1 ? $0 : ''
+            })
+
+            // return once no more tags are removed
+            if (before === after) {
+                return after
+            }
+        }
+    }
+
+    function _phpCastString (value) {
+        // original by: Rafał Kukawski
+        //   example 1: _phpCastString(true)
+        //   returns 1: '1'
+        //   example 2: _phpCastString(false)
+        //   returns 2: ''
+        //   example 3: _phpCastString('foo')
+        //   returns 3: 'foo'
+        //   example 4: _phpCastString(0/0)
+        //   returns 4: 'NAN'
+
+
+        var type = typeof value
+
+        switch (type) {
+            case 'boolean':
+                return value ? '1' : ''
+            case 'string':
+                return value
+            case 'number':
+                if (isNaN(value)) {
+                    return 'NAN'
+                }
+
+                if (!isFinite(value)) {
+                    return (value < 0 ? '-' : '') + 'INF'
+                }
+
+                return value + ''
+            case 'undefined':
+                return ''
+            case 'object':
+                if (Array.isArray(value)) {
+                    return 'Array'
+                }
+
+                if (value !== null) {
+                    return 'Object'
+                }
+
+                return ''
+            case 'function':
+            // fall through
+            default:
+                throw new Error('Unsupported value type')
+        }
+    }
+</script>
+
+<div class="theme-footer"><br></div>    </div>
+<script type="text/javascript">
+window.addEvent('domready',function(){
+    updateCartInfo();
+    var cartViewUrl='/cart-view.html';
+    var car_html = $$('#cart_steps .step-item.step-1.active')[0];
+    var MiniCarWidgets={
+        init:function(){
+            var minicart=this.cart= $('shop_cart_mini');
+            this.detailbox=minicart.getElement('.cart-mini-container');
+            this.handle=minicart.getElement('.minicart-text');
+            this.attach();
+        },
+        attach:function(){
+            this.handle.addEvents({
+                'mouseenter':function(e){
+                    if(e&&this.state) return;
+                    if(car_html){$$('.title-str')[0].setStyle('cursor','no-drop').set('href','javascript:;');}
+                    if(car_html) return;
+
+                    this.show();
+
+                    this.request({
+                        url:cartViewUrl,
+                        method:'post',
+                        onRequest:function(){
+                            this.detailbox.innerHTML='<div class="loading">加载中...</div>';
+                        }.bind(this)
+                    });
+                }.bind(this)
+            });
+            this.cart.addEvent('_show',function(e){
+                this.handle.fireEvent('mouseenter');
+            }.bind(this));
+        },
+        show:function(e){
+            this.cart.addClass('enter');
+            this.state=true;
+            var self = this;
+            this.cart.addEvent('mouseleave',function(){
+                self.hide();
+                this.removeEvent('mouseleave',arguments.callee);
+            });
+            return this;
+        },
+        hide:function(){
+            this.cart.removeClass('enter');
+            this.state=false;
+        },
+        setHeight: function(el) {
+            var h = window.getSize().y - this.detailbox.getPosition(document.body).y + window.getScroll().y - this.detailbox.getPatch().y;
+            var dh = this.detailbox.getSize().y - this.detailbox.getPatch('padding', 'border').y;
+            if(dh >= h){
+                //this.detailbox.setStyle('height',h);
+            }
+            else this.detailbox.setStyle('height', 'auto');
+            return this;
+        },
+        removeCart:function(el){
+            this.request({
+                url:el.href,
+                data:el.getParent('.goods-item')
+            });
+        },
+        addEvent:function(){
+            var _this=this;
+            this.detailbox.getElements('.action-delete').addEvent('click',function(e){
+                e.stop();
+                _this.removeCart(this);
+                
+                // // ******** adobe 统计开始 ********//
+                //miniCart remove item event
+                var p = this.getParent('.goods-item .goods-info');
+                var product_id = $$(p).get('event-itemId')[0];
+                var product_bn = $$(p).get('event-bn')[0];
+                var name = $$(p).getElement('.goods-name').getElement('a')[0].get('html');
+                var quantity = $$(p).getElement('.p-quantity')[0].get('html').split('：')[1];
+                var price = $$(p).getElement('.p-price')[0].get('html').split('￥')[1];
+                digitalData.eventData = {
+                 product: [{
+                  id: product_bn,
+                  style: product_bn,
+                  name: strip_tags(name),
+                  price: strip_tags(price),
+                  quantity: quantity
+                   //quantity being removed
+                 }]
+                };
+                digitalData.event = 'removeFromCart';
+                // // ******** adobe 统计开始 ********//
+                if($$('.op-cart-number')[0].innerHTML == "1"){
+                    $$('.op-cart-number')[0].setStyle('display','none')
+                }
+            });
+        },
+        request:function(options){
+            options = options || {};
+            options.data = (options.data?options.data.toQueryString():'')+'&mini_cart_list=true';
+            options = Object.merge({
+                method:'post',
+                update: this.detailbox,
+                onSuccess:function(re){
+                    try{
+                        updateCartInfo();
+                        fixImageSize($$('img[data-img-zoom]'));
+                    }catch(e){}
+                    this.setHeight().addEvent();
+                }.bind(this)
+            },options);
+            return new Request.HTML(options).send();
+        }
+    };
+
+    var hrf=location.href.split('/').getLast(),
+    hrf=decodeURI(hrf),
+    menulist=$('Menu').getElements('li.item');
+
+
+    menulist.each(function(el){
+
+        var link=el.getElement('a');
+        var linkhref = link.get('data-href')+'?utm_source=pc_homepage&utm_medium=pc_'+ link.get('text').trim() +'&utm_campaign=ownsite'; 
+        var href = linkhref.split('/').getLast();
+
+        if(link&&hrf===href) el.addClass('hover');
+
+        // el.getElements('a').each(function(e){
+        //     var ehref= e.get('data-href')+'?utm_source=pc_homepage&utm_medium=pc_'+ e.get('text').trim() +'&utm_campaign=ownsite';
+        //     if(e&&ehref===href) {
+        //         alert(ehref);
+        //         e.getParents('.item').addClass('hover');
+        //     }
+        // })
+
+
+    });
+
+    MiniCarWidgets.init();
+    var min_car_num = $$('.op-cart-number')[0];
+    if(min_car_num.innerHTML == ""){
+        min_car_num.setStyle('display','none')
+    }
+    $$('.action-addtocart').addEvent('click',function(){
+        min_car_num.setStyle('display','inline-block')
+    })
+    var hdCdy = $$('.hdCountry')[0],
+        m_cart = $('shop_cart_mini'),
+        b_cty = $$('.b-Country')[0],
+        b_cty_l = b_cty ? b_cty.getElement('.country-list') : null;
+
+    $$(document)[0].addEvent('click',function(){       
+        if(m_cart.hasClass('enter')){
+            m_cart.removeClass('enter');
+            m_cart.state=false;
+        }
+
+        if(b_cty_l && b_cty_l.style.display == 'block'){
+            b_cty_l.setStyle('display','none');
+        }
+        if($('footer_bg').style.display != 'none'){
+            $('footer_bg').hide();
+            $('footer_qr').hide(); 
+            $('footer_qr2').hide(); 
+        }       
+    });
+
+if(navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.match(/7./i)=="7.") { 
+    $$('body').addClass('ie')
+} 
+else if(navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.match(/8./i)=="8.") 
+{ 
+    $$('body').addClass('ie')
+} 
+/* 是否为mac系统  */ 
+// var isMac = function() { return /macintosh|mac os x/i.test(navigator.userAgent); }();
+// /* 是否为windows系统 */
+// var isWindows = function() { return /windows|win32/i.test(navigator.userAgent); }();
+
+// if(isMac) $$('body').addClass('Mac');
+// if(isWindows) $$('body').addClass('Window');
+
+    $('shop_cart_mini').getElement('dd').addEvent('click',function(e){
+        e.stopPropagation()
+    })      
+    if (b_cty && b_cty.getElement('.title')){
+    b_cty.getElement('.title').addEvent('click',function(e){
+        e.stopPropagation()
+        if(b_cty_l.style.display != 'block'){
+            b_cty_l.setStyle('display','block');
+        }else{
+            b_cty_l.setStyle('display','none');  
+        }        
+    });
+    }
+    $$('.SureLook').getElement('.item-1.first').addEvent('click',function(e){
+        e.stopPropagation()
+        $('footer_bg').show();
+        $('footer_qr').show();
+        return false
+    })
+    $$('.SureLook').getElement('.item-7.second').addEvent('click',function(e){
+        e.stopPropagation()
+        $('footer_bg').show();
+        $('footer_qr2').show();
+        return false
+    })
+
+    // try{
+    //     if(s_s){
+    //         $$('.maxFooter')[0].addClass('in')           
+    //     } 
+    // }catch(e){}
+    // var body_w = $$('body')[0].getSize().x;
+    // var fix_r = ( body_w - 1040 ) / 2 - 80;
+    // $$('.right-fix')[0].setStyle('right',fix_r);
+    //$('gotop').setStyle('right',fix_r);
+
+    // shoes 活动页不出现原nav   效果
+    if(!$$('.page-shoes--nav').length && !$$('.page-vans618').length){
+        window.addEvent('scroll',function(){
+        var top = window.getScrollTop();
+        var hdmen = $$('.hdMenuBox')[0];
+        var bg = $('cur_bg');
+        if(top >= 70){
+            hdmen.addClass('cur');
+            bg.setStyle('height',138);
+        }else{
+            hdmen.removeClass('cur');
+            bg.setStyle('height',0);
+        }
+        if(top >= 71){
+            hdmen.addClass('curr');
+        }else{
+            hdmen.removeClass('curr');
+        }
+        if(top > 5) $('gotop').show();
+        else $('gotop').hide();
+    })
+    }
+    // adobe统计
+    $$('.right-fix').addEvent('click',function() {
+        digitalData.event = 'liveChatClick';
+    })
+    // adobe统计 邮件订阅
+    $$('.email-btn').addEvent('click',function() {
+        digitalData.eventData = {
+         newsletterSubscriptionLocation: 'checkout'
+          //location of where the user initiated the signup
+          //such as a model, checkout, etc
+        };
+        digitalData.event = 'newsletterSubscribed';
+    });
+    
+    
+});
+</script>
+<script type="text/javascript" src="./passport-login_files/max.js.下载"></script>
+<!-- <script language="javascript" src="http://chat8.live800.com/live800/chatClient/monitor.js?jid=9415958668&companyID=772724&configID=150736&codeType=custom"></script>   -->
+
+<script>
+window.addEvent('domready',function(){
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66204130-1', 'auto');
+  ga('send', 'pageview');
+  if(typeof(ga_addTransaction) != "undefined" && typeof(ga_addItem) != "undefined"){
+      ga('require', 'ecommerce');
+      ga('ecommerce:addTransaction', ga_addTransaction);
+      for (var i = 0; i < ga_addItem.length; i++) {
+        ga('ecommerce:addItem', ga_addItem[i]);
+      }
+      ga('ecommerce:send');
+  }
+});
+
+
+
+  $$('body a').each(function (a) {
+      var fx_sn  = getCookie('exfenxiao_login_store_fxCode');
+
+      if (fx_sn.length > 0) {
+          var temp_a = a.href;
+          if(a.href.indexOf('javascript') == -1){
+              if (a.href.indexOf('#') > 0) {
+                  temp_a = temp_a.substring(0, a.href.indexOf('#'));
+              }
+              if (temp_a.indexOf('?') > 0) {
+                  a.href = temp_a + '&fx_sn=' + fx_sn;
+              } else {
+                  a.href = temp_a + '?fx_sn=' + fx_sn;
+              }
+          }
+      }
+
+  });
+
+  function getCookie(c_name)
+  {
+      if (document.cookie.length>0)
+      {
+          c_start=document.cookie.indexOf(c_name + "=");
+          if (c_start!=-1)
+          {
+              c_start=c_start + c_name.length+1;
+              c_end=document.cookie.indexOf(";",c_start);
+              if (c_end==-1) c_end=document.cookie.length;
+              return unescape(document.cookie.substring(c_start,c_end));
+          }
+      }
+      return ""
+  }
+
+window.onload = function () {
+    //adobe 统计分析 --start  从cookie中获取，其它地方组装好数据，放到cookie中即可，在需要统计的页面底部引入该文件
+//页面渲染完毕添加当前所处的adobe事件
+    if(typeof customerID !== "undefined") {
+        var cookieDigitalData = String(getCookie('digitalData'));
+        if (cookieDigitalData  != null && cookieDigitalData.length > 1) {
+            digitalData = JSON.parse(getCookie('digitalData'));
+            // setCookie('digitalData', '', 0); //重置掉cookie，放置刷新页面二次计算
+        }
+
+        var digitalDataEvent = String(getCookie('digitalDataEvent'));
+        if (digitalDataEvent != null && digitalDataEvent.length >1) {
+            digitalData.event = digitalDataEvent;
+            // setCookie('digitalDataEvent', '', 0); //重置掉cookie，放置刷新页面二次计算
+        }
+
+        var digitalDataActions = String(getCookie('digitalDataActions'));
+        if (digitalDataEvent != null && digitalDataEvent.length >1) {
+            digitalData.actions = JSON.parse(digitalDataActions);
+            // setCookie('digitalDataActions', '', 0); //重置掉cookie，放置刷新页面二次计算
+        }
+    }
+    _satellite.pageBottom();
+}
+
+//adobe 统计分析 --start
+</script>
+
+<script language="javascript" src="./passport-login_files/monitor.js.下载" charset="UTF-8"></script>
+
+
+
+
+<div id="InviteWindow" style="z-index: 2147483646; visibility: hidden;"></div><div class="live800_entry_2" id="live800_entry" title="点击我，回答您的问题" style="display:none;"><span class="live800_icon" id="live800_icon"></span><i class="live800_badge" id="live800_badge">点击我，回答您的问题</i></div></body></html>

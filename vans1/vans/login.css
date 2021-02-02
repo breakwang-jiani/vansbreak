@@ -1,0 +1,259 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: #666666;
+    background-color: #F1F2ED;
+    position: relative;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    color: #666;
+    font-size: 100%;
+}
+
+.singin-page-wrap {
+    width: 600px;
+    height: 421px;
+    margin: 0 auto;
+    border: 1px solid #c9caca;
+    background-color: #fff;
+}
+
+.sign-title {
+    margin-top: 35px;
+    border: 0;
+    margin-bottom: 10px;
+    padding-left: 59px;
+}
+
+.sign-title h2 {
+    font: 600 24px/44px "Franklin-Demi", '冬青黑体', "microsoft yahei";
+    color: #666;
+    width: 160px;
+    text-align: left;
+    background: #fff;
+    float: left;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.singin-page-wrap .login-tap {
+    float: left;
+}
+
+.singin-page-wrap .active {
+    border-bottom: 2px solid;
+    padding: 0px;
+    color: #C9192E;
+}
+
+.sign-title .x-input {
+    width: 458px;
+    padding: 11px 0;
+    padding-left: 22px;
+    border-color: #d7d8d4;
+    font-size: 16px;
+    font-family: "Franklin", "冬青黑体", "microsoft yahei";
+    margin-bottom: 20px;
+}
+
+.signupin-titlet .x-input {
+    width: 288px;
+    height: 50px;
+    line-height: 26px;
+    padding: 1px 4px;
+}
+
+.sign-title .fr {
+    margin-right: 59px;
+    line-height: 32px;
+    color: #d2d2d2;
+    font-size: 16px;
+    width: auto;
+    font-weight: normal;
+    font-family: "Franklin-Demi", "冬青黑体", "microsoft yahei";
+}
+
+.fr {
+    float: right;
+}
+
+.sign-title .btn-major {
+    width: 310px;
+    height: 50px;
+    line-height: 50px;
+    padding: 0;
+    font-size: 16px;
+    border: 0;
+}
+
+.btn-major,
+.action-buynow {
+    background: #C9192E;
+    filter: none;
+    transition: background-color 0.2s linear;
+    cursor: pointer;
+}
+
+.singin-page-wrap .sign-title .oh {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.sign-title .btn-passport {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    background: #000;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 59px;
+    cursor: pointer;
+}
+
+.trust_signin {
+    margin: 25px 59px 5px;
+    border: 0;
+}
+
+.trust_signin span {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Franklin-Demi", "冬青黑体", "microsoft yahei";
+    vertical-align: middle;
+    float: left;
+    line-height: 37px;
+}
+
+element.style {}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+dl,
+dd,
+fieldset,
+form,
+input,
+select,
+textarea,
+button,
+figure {
+    margin: 0;
+}
+
+user agent stylesheet form {
+    display: block;
+    margin-top: 0em;
+}
+
+.signin-page-wrap {
+    background: none;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    font-family: "Franklin-Demi", "microsoft yahei", "microsoft yahei";
+    margin-top: 60px;
+}
+
+.signupin-content .form-item {
+    margin-bottom: 20px;
+    height: auto;
+    overflow: visible;
+}
+
+.signupin-content .form-item {
+    height: 51px;
+    font-size: 116.66667%;
+}
+
+.signin .form-label {
+    display: none;
+}
+
+.signupin-content .form-label {
+    height: 32px;
+    overflow: hidden;
+}
+
+.form-label {
+    text-align: right;
+    float: left;
+    width: 5.2em;
+    line-height: 2.1em;
+    min-height: 1em;
+    _height: 1em;
+}
+
+.signupin-content .form-act {
+    padding-left: 59px;
+    margin-left: 0;
+}
+
+.signupin-content .form-act {
+    position: relative;
+}
+
+.signin .form-act {
+    margin-left: 20px;
+    *display: inline;
+}
+
+.form-act {
+    display: block;
+    margin-left: 5.45em;
+    *margin-left: 0;
+    _display: inline;
+}
+
+.signupin-content .form-item {
+    height: 51px;
+    font-size: 116.66667%;
+}
+
+.signupin-content .x-input {
+    width: 458px;
+    padding: 11px 0;
+    padding-left: 22px;
+    border-color: #d7d8d4;
+    font-size: 16px;
+    font-family: "Franklin", "冬青黑体", "microsoft yahei";
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.signupin-content .x-input {
+    width: 288px;
+    height: 50px;
+    line-height: 26px;
+    padding: 1px 4px;
+}
